@@ -1,5 +1,8 @@
 # Possible TODOs.
 
+* Start: Walk on start a stopwatch and announce the title. Ask the audience how accurate they think the title will be. Get into the precision element too
+* stopwatch conceit. After asking audience about accuracy and precision of my guess, get into the real question: does it matter? Time taken is something of a concern (I have to finish on time) but value from the talk is more important
+
 * do we want to tie the complexity of the system of work to ability to estimate? I.e. teams that are highly interdependent get to be hard to predict.
 * Noestimates? -- Probably, but only obliquely. Still too emotionally charged.
 
