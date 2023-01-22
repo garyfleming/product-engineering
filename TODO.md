@@ -18,3 +18,5 @@ Who will free them? or will they be forced to take the (often) significant risk 
 
 * ""If the train leaves every 5 minutes you don't care about a timetable. If it leaves every 2 days you want to know *exactly* when it leaves"
 Great analogy from @hamrin reflecting on planning, estimating and software delivery." https://twitter.com/mfloryan/status/1605560746040995841
+
+* "I disagree with the idea that story points are valuable, not for the estimate, but for the conversation. That conversation is focused on the wrong thing: implementation rather than value. Instead, collaboratively make the story smaller." https://mstdn.social/@allenholub/109700211594465552
