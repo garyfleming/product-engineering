@@ -20,3 +20,5 @@ Who will free them? or will they be forced to take the (often) significant risk 
 Great analogy from @hamrin reflecting on planning, estimating and software delivery." https://twitter.com/mfloryan/status/1605560746040995841
 
 * "I disagree with the idea that story points are valuable, not for the estimate, but for the conversation. That conversation is focused on the wrong thing: implementation rather than value. Instead, collaboratively make the story smaller." https://mstdn.social/@allenholub/109700211594465552
+
+* How estimation got removed from SCrum https://ageling.substack.com/p/how-estimation-got-removed-from-scrum-87ec0404f3c0
