@@ -22,3 +22,5 @@ Great analogy from @hamrin reflecting on planning, estimating and software deliv
 * "I disagree with the idea that story points are valuable, not for the estimate, but for the conversation. That conversation is focused on the wrong thing: implementation rather than value. Instead, collaboratively make the story smaller." https://mstdn.social/@allenholub/109700211594465552
 
 * How estimation got removed from SCrum https://ageling.substack.com/p/how-estimation-got-removed-from-scrum-87ec0404f3c0
+
+* "In complexity spaces you can't just look at the facts because you don't know which facts will be relevant." -- Brian Marick - from his podcast, Oddly Influenced
