@@ -24,3 +24,7 @@ Great analogy from @hamrin reflecting on planning, estimating and software deliv
 * How estimation got removed from SCrum https://ageling.substack.com/p/how-estimation-got-removed-from-scrum-87ec0404f3c0
 
 * "In complexity spaces you can't just look at the facts because you don't know which facts will be relevant." -- Brian Marick - from his podcast, Oddly Influenced
+
+* Estimates: what conversations are you having as a result of estimating? None? Then your estimates are likely waste. If you’re going to do it regardless, then skip the estimate. What might be more valuable is slicing. Slicing is in the ball park of estimation: guessing at smaller parts that have value and order (I.e. “I believe we need this part first and it’ll deliver x”)
+
+* wrote a talk on BDD. Normally 1 hr for each minute spoken, when you include research/slides etc. Decided to do this much faster given context (internal/informal). Guessed I'd do it in 2 minutes for each minute spoken - Roughyl an hour. Got a draft done but it was terrible. Timeboxed 2 more hours working. Better, acceptable quality. Wanted a little more. 2 more hours and it was where I wanted. 5 hours to estimate something I know how to do and have done before; even though I know it normally takes way longer. Let me iterate! This is a good thing. I could decide when to stop and how much to invest!
