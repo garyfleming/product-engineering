@@ -6,6 +6,8 @@
 * do we want to tie the complexity of the system of work to ability to estimate? I.e. teams that are highly interdependent get to be hard to predict.
 * Noestimates? -- Probably, but only obliquely. Still too emotionally charged.
 
+* The cargo cult of story points - Blindly adhered to, rarely understood, rarely to answer a specific question, without consideration of complexity etc
+
 
 * "When a software delivery group is forced to estimate tasks, this tends to trap them in an environment of obligation without responsibility. And often the person demanding these estimates finds themself in the very same trap.
 
