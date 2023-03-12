@@ -28,3 +28,31 @@ Great analogy from @hamrin reflecting on planning, estimating and software deliv
 * Estimates: what conversations are you having as a result of estimating? None? Then your estimates are likely waste. If you’re going to do it regardless, then skip the estimate. What might be more valuable is slicing. Slicing is in the ball park of estimation: guessing at smaller parts that have value and order (I.e. “I believe we need this part first and it’ll deliver x”)
 
 * wrote a talk on BDD. Normally 1 hr for each minute spoken, when you include research/slides etc. Decided to do this much faster given context (internal/informal). Guessed I'd do it in 2 minutes for each minute spoken - Roughyl an hour. Got a draft done but it was terrible. Timeboxed 2 more hours working. Better, acceptable quality. Wanted a little more. 2 more hours and it was where I wanted. 5 hours to estimate something I know how to do and have done before; even though I know it normally takes way longer. Let me iterate! This is a good thing. I could decide when to stop and how much to invest!
+
+* The role of precision - when to be more or less precise
+
+* The startship troopers scene changed "the only good estimate is a dead estimate"
+
+* WSJF. Different versions. While later versions misunderstand the purpose of the original, they can still be useful. Use what you need. Understand what they're not giving you.
+
+* Keogh: https://mas.to/@lunivore/109987491027996075
+  
+"A few people asked me recently for my opinion on estimates in SW. Honestly, they're OK, especially coarse-grained to choose priorities or assign resources and people.
+
+A *focus* on estimates, though... that way lies pain, suffering and too much context-switching. And I hates it."
+
+* Keogh: https://mas.to/@lunivore/109987482973920249
+
+"If I estimate something at 5 days, how much faster than that might it be?
+
+We might find it's trivial or already done, so we might save 5 days.
+
+How much SLOWER can it be?"
+
+Follow-up: https://mas.to/@lunivore/109987484364423857
+
+"Work can be infinitely slower than estimate (if it is, we usually give up and do something different).
+
+The more innovative it is, the more discoveries there are. They will tend to slow you down more than speed you up.
+
+That's why nobody in software is good at estimates."
