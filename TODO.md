@@ -58,3 +58,5 @@ Follow-up: https://mas.to/@lunivore/109987484364423857
 The more innovative it is, the more discoveries there are. They will tend to slow you down more than speed you up.
 
 That's why nobody in software is good at estimates."
+
+* Post: "Don't equate story points to hours" https://www.mountaingoatsoftware.com/blog/dont-equate-story-points-to-hours
