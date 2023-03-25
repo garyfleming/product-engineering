@@ -60,3 +60,5 @@ The more innovative it is, the more discoveries there are. They will tend to slo
 That's why nobody in software is good at estimates."
 
 * Post: "Don't equate story points to hours" https://www.mountaingoatsoftware.com/blog/dont-equate-story-points-to-hours
+
+* Minimum viable estimation pt 2 https://neil-vass.com/minimum-viable-estimation-part-2/
