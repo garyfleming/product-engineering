@@ -62,3 +62,5 @@ That's why nobody in software is good at estimates."
 * Post: "Don't equate story points to hours" https://www.mountaingoatsoftware.com/blog/dont-equate-story-points-to-hours
 
 * Minimum viable estimation pt 2 https://neil-vass.com/minimum-viable-estimation-part-2/
+
+* "Customers don't care how many story points you've delivered"
