@@ -64,3 +64,5 @@ That's why nobody in software is good at estimates."
 * Minimum viable estimation pt 2 https://neil-vass.com/minimum-viable-estimation-part-2/
 
 * "Customers don't care how many story points you've delivered"
+
+* Estimating Cost of Delay: https://charleslambdin.com/2020/11/16/estimating-cost-of-delay/
