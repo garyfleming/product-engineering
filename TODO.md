@@ -66,3 +66,13 @@ That's why nobody in software is good at estimates."
 * "Customers don't care how many story points you've delivered"
 
 * Estimating Cost of Delay: https://charleslambdin.com/2020/11/16/estimating-cost-of-delay/
+
+* Sketch
+  * Who thinks I'll be done in time?
+  * Does it matter?
+  * When *would* it matter?
+    * What other practices would help?
+  * What info do you have aout my talks? Seen me speak?
+  * What if I said I've never gone longer than I said I would?
+  * Okay, but what if I said I've never done *this* talk before?
+  * How does this relate to your work?
