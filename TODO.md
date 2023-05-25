@@ -67,6 +67,10 @@ That's why nobody in software is good at estimates."
 
 * Estimating Cost of Delay: https://charleslambdin.com/2020/11/16/estimating-cost-of-delay/
 
+* Doc Norton: escape velocity https://docondev.com/escape-velocity
+
+* increasingly large story points values means saying “I know less and less about this”. Thinking you can be predictable and large is folly. Slice your stories. -- Analogy: one marble is easy. five marbles is fine. Jar full of marbles - literally a game of chance.
+
 * Sketch
   * Who thinks I'll be done in time?
   * Does it matter?
