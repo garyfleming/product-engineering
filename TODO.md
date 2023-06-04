@@ -73,10 +73,18 @@ That's why nobody in software is good at estimates."
 
 * Sketch
   * Who thinks I'll be done in time?
-  * Does it matter?
-  * When *would* it matter?
-    * What other practices would help?
+
   * What info do you have aout my talks? Seen me speak?
   * What if I said I've never gone longer than I said I would?
   * Okay, but what if I said I've never done *this* talk before?
+  *   * Does it matter?
+  * When *would* it matter?
+    * What other practices would help?
   * How does this relate to your work?
+
+
+* Deadline 
+
+* AS a team with stakeholders (including maanger), use bdd, slicing, etc to understand alignment. Overcommunicate on where we are. Get to flow.
+
+* Get to CI/CD. Technical practices prevent anxiet anout the once per month issue.
