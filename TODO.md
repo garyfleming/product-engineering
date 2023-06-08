@@ -88,3 +88,8 @@ That's why nobody in software is good at estimates."
 * AS a team with stakeholders (including maanger), use bdd, slicing, etc to understand alignment. Overcommunicate on where we are. Get to flow.
 
 * Get to CI/CD. Technical practices prevent anxiet anout the once per month issue.
+
+* like this talk, where there’s been lots of talk about the talk, most talk about estimates are about estimates and not about the work/value
+
+* Building options/slicing: I'm not following a script. I'm not an actor who has to say all the lines, and in the right order. I'm a practioner who understands a domain, and have a decent idea of how to move the talk around. I can do this on the fly. If I want to, I can jump forward and skip whole sections that you don't know exist. I have sliced the talk into chapters.
+TODO relate this to work slicing. value.
