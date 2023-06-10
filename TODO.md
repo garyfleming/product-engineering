@@ -82,6 +82,8 @@ That's why nobody in software is good at estimates."
     * What other practices would help?
   * How does this relate to your work?
 
+* Reduce wait time to improve lead timeshttps://mastodon.social/@malcolm/110454288640880567  - https://malcolmbastien.com/2023/05/29/why-work-waits/
+
 
 * Deadline 
 
