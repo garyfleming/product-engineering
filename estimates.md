@@ -9,6 +9,8 @@ Prework:
 
 ---
 
+^ TODO nothing yet about WHY we estimate (and why most of it is pointless). What estimates are for,
+
 ---
 
 ---
@@ -20,7 +22,8 @@ Prework:
 
 ^ This talk is called Estimates... [start stopwatch visibly]
 ^ My name is Gary, I am a ..., been doing agile stuff for many years.
-^ My first question to you is: do you think that this talk will take 42.5 minutes?
+^ WIP TALK! What I want...
+^ My first question to you is: do you think that this talk will take 42.5 minutes? You'll have a few minutes to think about it.
 
 ---
 
@@ -29,6 +32,24 @@ Prework:
 Opinions expressed in this talk are my own, and not representative of my employer's views.
 
 ^ While you ponder that here's the a small disclaimer. Much of the experience this talk is based on happened before I started with my current employer.
+
+---
+
+# Why Do We Estimate?
+
+^ Lots of reasons.
+
+---
+
+# Why do we really estimate?
+
+TODO
+
+---
+
+# What do we do with our estimates?
+
+TODO
 
 ---
 
@@ -47,10 +68,18 @@ Opinions expressed in this talk are my own, and not representative of my employe
 ^ I used the word deadline there. I'm sure most of you are familiar with deadlines: A date is given by when something absolutely positively must be complete or there will be GRAVE CONSEQUENCES.
 ^ I think the problem with deadlines is that they're largely self-imposed and... nothing really happens when they go whizzing by.
 
-^ Many deadlines come out of either:
-A) HIPPO
-B) Wild guesses
-C) A pseudo-estimation process like story pointing being turned into a date based on questionable methods (we will be coming back here)
+---
+
+# Deadlines
+
+Often come from:
+
+* HIPPO
+* Wild guesses
+* Psuedo-estimation process derived from story pointing.
+
+^ Many deadlines come out off...
+^ Last one is especially pernicious, because we've got a tendency to turn a questionable estimation process into questionable dates in a questionable way. We'll come back to story points.
 
 ---
 
@@ -75,7 +104,7 @@ Examples:
 
 ---
 
-# Does this talk have a deadline to finish?
+# Example: Does this talk have a deadline to finish?
 
 ^ Given the length of my slot, I *can* go a few minutes over my imposed deadline. 45 minute slot, gives me 2 and a half minutes of slack. I *might* be able to go on a few minutes into the lunch break/next slot too.
 ^ But eventually that has social consequences: you want lunch so you'll likely leave, The next session starts at some point so someone would come and get me off stage. And I'd probably not be invited back again. Rambling on doesn't help anyone.
@@ -83,18 +112,18 @@ Examples:
 
 ---
 
-# Do you have a deadline?
+# Example: Do you have a deadline?
 
-^ IRL Maybe a manager gets annoyed that their self-imposed deadline they reported didn't get met. It doesn't matter that it was realistic or not, that it was artificial or not; there's a lot of trust and social capital. Teams who fail to deliver to deadlines consistently will lose trust.
-^ Conversely, teams who are frequently held to unrealistic and arbitrary deadlines will lose trust in their management and leadership - Why should they be treated poorly for bad deadlines?
+^ IRL Maybe a manager gets annoyed that their self-imposed deadline they reported didn't get met. It doesn't matter that it was realistic or not, that it was artificial or not; there's a loss of trust and social capital. Teams who fail to deliver to deadlines consistently will lose trust.
+^ Conversely, teams who are frequently held to unrealistic and arbitrary deadlines will lose trust in their management and leadership - Why should they be treated poorly for bad deadlines? Particularly those in which they didn't participate.
 ^ TODO what should we do as managers and stakeholders
-
-^ To summarise: there are often consequences for deadlines, real or imagined, being missed; for both those held to the deadline and those who set it.
 
 ---
 
 ## _When a software delivery group is forced to estimate tasks, this tends to trap them in an environment of obligation without responsibility. And often the person demanding these estimates finds themself in the very same trap._
 ## -- JB Rainsberger
+
+^ To summarise: there are often consequences for deadlines, real or imagined, being missed; for both those held to the deadline and those who set it.
 
 ---
 
@@ -109,16 +138,35 @@ We've established some external constraints (someone will kick me off stage even
 
 * I claim I've never gone over a talk time in the past. Not even by a few seconds.
 * You've seen me talk before and the last claim is true in your experience.
+* You've been to this event before and people generally finish on time.
 
-^ Experience. Experience matters. If we've got relevant experience in doing something, we're better able to predict whether we can do something similar... assuming it's the kind of thing that is repeatable, where we have experience.
+^ Experience. Experience matters. If we've got relevant experience in doing something, we're better able to predict whether we can do something similar... assuming it's the kind of thing that is repeatable, where we have experience. Repeatable knowledge is the most estimable knowledge.
 
+
+---
+
+# A Kind of Complexity From Experience
+
+* You've done it before
+* Someone in the team has done it before
+* Someone in the company has done it before
+* Someone in the world has done it before
+* No-one has done it before
+
+^ Liz Keogh has, in the past, talked about kinds of experience and what they mean in terms of how we act (building on Cynefin). You kind think of these 
+^ First two are pretty straight forward. If you've got quick access to experience, you can probably break it down and estimate accurately.
+^ Third one: need knowledge acquisition, cross-training, cross-applicability to your system. You probably can't estimate directly. Broad timelines based on nearby experience
+^ Fourth and fifth mean you've got very little chance of estimating accurately. You don't have any knowledge of how to do them. You know they might be doable, or they might not. Instead, all you can do is break down the goal into a series of experiments to learn what you don't know. Rather than estimate the effort in a task, you timebox how long you'll spend learning a thing. At the end of the timebox, you check whether you've learned enough and, from a position of slightly more knowledge, you estimate how much longer you need to learn.
+
+^ TODO Put these on separate slides and visualise how to estimate?
+
+^ TODO feels like it needs more
+
+^ TODO talk about complexity of system e.g. interdependent teams hard to predict: any 
 
 ---
 
-TODO insert explanation of complexity here.
-TODO talk about complexity of system e.g. interdependent teams hard to predict: any 
-
----
+# 42.5
 
 * I've done this talk zero times before.
 
@@ -126,13 +174,16 @@ TODO talk about complexity of system e.g. interdependent teams hard to predict: 
 | --- | --- | --- | --- |
 | Lean Agile Glasgow | 14th June 2023 | 45m approx. | ? | 
 
-^ I've literally never said these words out loud. Never in practice. Never for anything else. There's clearly a structure I'm following and a plan I have in mind, but I don't know if that's sound knowledge based on my understanding of this subject and the constraints we have today. I mean, the fact I have slides is a pretty obvious indicator that it's not all just off the cuff thinking. I had to write the slides. It took many hours. Including writing and planning to say this part here about how I haven't practiced, but do have a structure.
-^ TODO make a note of the stopwatch time and add the data here.
+^ I've literally never said these words out loud. Never in practice. Never for anything else. *I* am lacking experience. There's clearly a structure I'm following and a plan I have in mind, but I don't know if that's sound knowledge based on my understanding of this subject and the constraints we have today. I mean, the fact I have slides is a pretty obvious indicator that it's not all just off the cuff thinking. I had to write the slides. It took many hours. Including writing and planning to say this part here about how I haven't practiced, but do have a structure.
 
 
 ---
 
-Too Meta?
+# Too Meta?
+
+---
+
+# Too Meta?
 
 ^ TODO insert picture of me here
 
@@ -142,32 +193,57 @@ So yes, the analogy will continue, but don't worry we'll be going to more overtl
 
 ---
 
+# 42.5
+
 * I wrote the talk title 5 months before I wrote the talk (because I thought this stopwatch idea was a good hook).
 
-^ The title isn't based on knowledge of the talk itself.
-^ Title is an estimate I gave *in a real unit of time* months before I knew exactly what the content was going to be. A delivery estimate with only the faintest amount of information. Does this sound like a good idea? 
+^ The title isn't based on knowledge of the talk itself. I had to submit the talk title, description, and learning outcomes last year. November/December. I know the subject, but I didn't know the final 
+
+---
+
+# Estimates
+
+* Title is an estimate
+* The estimate is in real units of time
+* The estimate was given when I had least knowledge of the content
+
+^ Title is an estimate I gave *in a real unit of time* months before I knew exactly what the content was going to be. A delivery estimate with only the faintest amount of information. Does this sound like a good idea? Estimating in time.
 So how did I pick it?
 
 ---
 
 # 45 minutes
-# 42 and a half minutes
 
-I've done this before; I know I can generally fill 45 minutes of airtime with reasonable material on most subjects I care about. I know that 42.5 is a more interesting title because of it's absurd precision.
-^ 45 minutes sounds too round. Sounds like 45ish. 42.5 sounds like I'm being pretty precise
+* Too round
+* Too vague
+
+^ I've done this before; I know I can generally fill 45 minutes of airtime with reasonable material on most subjects I care about, and Ive been doing workshops on estimation recently. But 45 minutes sounds too round. Sounds like 45ish. Sounds like "I'll fill the slot, maybe"
 
 ---
 
 # 42 Minutes, Thirty Three Seconds
 
-^ I could've called teh talk "42 minutes, and thirty three seconds" and you'd have believed me less.
+* Too precise
 
+^ I could've called the talk "42 minutes, and thirty three seconds" and you'd have believed me less. It feels a little more contrived. No-one thinks it'll be finished at exactly that point, but the extra precision makes it feel like it should be. Let me illustrate that.
 
 ---
 
 # 42 Minutes, Thirty Three Seconds, 481 Milliseconds
 
-^ Add in milliseconds nad it gets weird. No-one would (or should) believe that the talk will take that long. It's overly precise for the context. There are too many things that can vary. To be anywhere that precise.
+* Far too precise
+
+^ Add in milliseconds and it gets weird. No-one would (or should) believe that the talk will take that long. It's overly precise for the context. There are too many things that can vary. To be anywhere that precise.
+
+---
+
+# 42 and a half minutes
+
+* Believablely precise
+* Not too vague, not too precise
+
+^ So I changed it to 42.5. I know that 42.5 is a more interesting title because of it's increase in precision. 42.5 sounds like I'm being pretty precise without being silly. It's 
+
 
 ---
 
@@ -175,19 +251,32 @@ I've done this before; I know I can generally fill 45 minutes of airtime with re
 
 ^ Good estimates aren't about precision. They're not. Broad estimates that have implicit error bounds and uncertainty help establish trust. They show, to some extent, that you know that you don't know.
 
-^ Overly precise estimates in this context decrease trust. They decrease. Use flat numerical systems with no error bounds leads to all sorts of weird behaviour and misunderstanding.
+^ Overly precise estimates in this context decrease trust. They decrease. Using flat numerical systems with no error bounds leads to all sorts of weird behaviour and misunderstanding.
 
 ---
 
-# story points
+# Story Points
 
 ^ .. Which inevitably brings us to story points.
+^ Let me start by saying I don't like story points. They can be a useful tool when used appropriately, but rarely are. They're like a hammer that mostly gets used as a saw; but with people just accepting that this is what you do in Agile. You'll note that there is no team-level agile methodology that promotes story points.
 
-don't like them
+
+--- 
+
+## _Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from **experience** and making decisions based on what is observed. Lean thinking reduces waste and focuses on the essentials._
+## Scrum Guide
+
+^ You might think that Scrum does, but there isn't any mention of them in scrum guide. It simply promotes empiricism. By empiricism, it very clearly means experience. Having people who know what to do, observing what happens each iteration, and then using that to inform what happens next.
+^ Sounds a lot like Experience-based complexity, right?
+^ To be clear, I'm not a massive scrum fan. Even ardent scrum teams should visualise, inspect, and adapt their way to something better.
+
+---
+
+^ don't like them
 Reasons why
 * The cargo cult of story points - Blindly adhered to, rarely understood, rarely to answer a specific question, without consideration of complexity etc
 precision
- - SPs are at a middling level of precision. Neither particularly precise for when that's appropriate, or revealing of the inherent error bound and unknowns in the estimate. 
+ - SPs are at a poor level of precision. Neither particularly precise for when that's appropriate, or revealing of the inherent error bound and unknowns in the estimate. 
 people think they can do things like capacity with them.
 - the Tuckman model myth in modern dynamic systems.
 - Dynamic reteaming - When was last time someone joined/left your team? parental leave? Sick leave? Secondment?
@@ -228,14 +317,13 @@ better alternatives
 - Really need dates?
   - Monte carlo simulation TODO lots to unpack here.
 
----
 
-# Slide Title
-
-^ Presenter notes
 
 ---
 
 # Thank You
 
 @garyfleming
+
+^ Thanks! !visibly stop  stopwatch and wait!
+^ I do have time for questions, but let me pre-empt the first one: what time does the stopwatch say? To which, I'll answer: It doesn't matter. The estimate, like most estimates, never mattered. I've not broken my social contract deadline, I've delivered the value I hoped to deliver (info about the estimation), I did it by breaking the talk down, focussing on the outcomes I wanted, and then slicing until we got here. It doesn't matter whether or not we took 42.5 minute.
