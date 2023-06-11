@@ -9,8 +9,12 @@ Prework:
 
 ---
 
+---
+
+---
+
 # Estimates And Complexity
-# A Tale In Forty Two And A Half Minutes
+## A Tale In Forty Two And A Half Minutes
 
 @garyfleming
 
@@ -33,6 +37,7 @@ Opinions expressed in this talk are my own, and not representative of my employe
 ^ Back to the question: who thinks this talk will be done 42.5 minutes after I started? i.e. who thinks it'll take that amount of time or less?
 ^ I mean, I could stop the talk right now and fulfill that criteria, but I probably wouldn't have done the job of delivering the talk.
 ^ Let's imagine I do a reasonable conference talk in terms of content and takeaways: do you think I'll finish within a few minutes of the title's implicit deadline?
+^ TODO build this out?
 
 
 ---
@@ -47,23 +52,38 @@ A) HIPPO
 B) Wild guesses
 C) A pseudo-estimation process like story pointing being turned into a date based on questionable methods (we will be coming back here)
 
-^ The only real deadlines I've seen are where they're tied to external events that we can't control or where there is a dependency on something else with a long lead time we can't control
+---
+
+# Real Deadlines
 
 Examples:
 * Building an app for a sporting event,
 * Regulatory requirements kicking in,
 * Creation of physical items
 
+^ The only real deadlines I've seen are where they're tied to external events that we can't control or where there is a dependency on something else with a long lead time we can't control
 ^ They're not going to delay Wimbledon for your app.
 ^ HMRC aren't gonna move the end of the tax year for you.
 ^ Making iPhones takes time; pretty hard to control for that.
 
+---
+
+# Fakelines
+
 ^ Most deadlines aren't real. There are few meaningful product consequences. Doesn't mean we can entirely ignore them, however. There can be very real social consequences, fair or unfair.
 
-^ Given the length of my slot, I *can* go a few minutes over my imposed deadline. 45 minute slot, gives me 2 and a half minutes of slack. I *might* be able to go on a few minutes into the lunch break/next slot too.
-^ But eventually that has social consequences: you want lunch so you'll likely leave, The next session starts at some point so someone would come and get me off stage. And I'd probably not be invited back again. That doesn't help anyone.
-^ TODO what are you trying to say here?
 
+---
+
+# Does this talk have a deadline to finish?
+
+^ Given the length of my slot, I *can* go a few minutes over my imposed deadline. 45 minute slot, gives me 2 and a half minutes of slack. I *might* be able to go on a few minutes into the lunch break/next slot too.
+^ But eventually that has social consequences: you want lunch so you'll likely leave, The next session starts at some point so someone would come and get me off stage. And I'd probably not be invited back again. Rambling on doesn't help anyone.
+^ i.e. there are social consequences
+
+---
+
+# Do you have a deadline?
 
 ^ IRL Maybe a manager gets annoyed that their self-imposed deadline they reported didn't get met. It doesn't matter that it was realistic or not, that it was artificial or not; there's a lot of trust and social capital. Teams who fail to deliver to deadlines consistently will lose trust.
 ^ Conversely, teams who are frequently held to unrealistic and arbitrary deadlines will lose trust in their management and leadership - Why should they be treated poorly for bad deadlines?
@@ -73,10 +93,19 @@ Examples:
 
 ---
 
+## _When a software delivery group is forced to estimate tasks, this tends to trap them in an environment of obligation without responsibility. And often the person demanding these estimates finds themself in the very same trap._
+## -- JB Rainsberger
+
+---
+
 # 42.5
 
 ^ Anyway, back to 42.5 minutes.
-We've established some external constraints (someone will kick me off stage eventually), but why do you think I'll finish on time? What information is that based on? Let me drip feed you a few things
+We've established some external constraints (someone will kick me off stage eventually), but why do you think I'll finish on time? What information is that based on? Is it just that I put it in the title? Let me drip feed you a few things
+
+---
+
+# 42.5
 
 * I claim I've never gone over a talk time in the past. Not even by a few seconds.
 * You've seen me talk before and the last claim is true in your experience.
