@@ -37,19 +37,45 @@ Opinions expressed in this talk are my own, and not representative of my employe
 
 # Why Do We Estimate?
 
-^ Lots of reasons.
+* How long will something take?
+* When will we finish some work?
+* How much work can we bring in to a sprint?
+* Given two pieces of work, which should we do first?
+* Build understanding
+* Build predictability
+
+^ Lots of reasons. There are a huge number of valid reasons to estimate. 
 
 ---
 
-# Why do we really estimate?
+# What do we estimate?
 
-TODO
+* Effort
+* Elapsed time
+* Understanding
+* Cost
+* Value
+* Complexity
+
+^ Likewise, we can estimate a lot of different things.
 
 ---
 
-# What do we do with our estimates?
+## Why do we really estimate?
+## What do we really estimate?
+## What do we do with our estimates?
 
-TODO
+^ But what do we actually do? Most of the time the estimates I've seen teams create are not useful because they're not estimating for themselves. They're estimating to keep someone/thing else happy: a process, a JIRA scorecard, a project manager or other leader. External factors drive the estimates, not the team themselves.
+^ They estimate almost purely in terms of effort/time. It's *rare* to see teams talking about complexity. Or value. Or cost. They're playing at estimation, rather than valuing it.
+^ Consequently what they do with the estimates is.. record it. They don't particularly reflect on it or use it to make new decisions. They don't drive direction. Those why we estimate questions are a setup for "Okay and now what should we do?" THey're not an answer in and of themselves. 
+^ TODO Split this. Possibly put the last chunk in a slide that repeats the why we estimate questions.
+
+--- 
+
+# Just Don't
+
+^ If this is your approach to estimation, I've got great news: you'll probably be just as well off just not doing it. If your estimates don't feed back into a meaningful decision making process, if you don't look at the gamut of things you can estimate, you can probably just skip it.
+^ Even if you do, I'm going to argue that just focussing on time isn't as useful as other techniques.
 
 ---
 
