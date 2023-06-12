@@ -75,7 +75,7 @@ Opinions expressed in this talk are my own, and not representative of my employe
 # Just Don't
 
 ^ If this is your approach to estimation, I've got great news: you'll probably be just as well off just not doing it. If your estimates don't feed back into a meaningful decision making process, if you don't look at the gamut of things you can estimate, you can probably just skip it.
-^ Even if you do, I'm going to argue that just focussing on time isn't as useful as other techniques.
+^ Even if you do engage a little more, I'm going to argue that just focussing on time isn't as useful as other techniques.
 
 ---
 
@@ -268,7 +268,7 @@ So how did I pick it?
 * Believablely precise
 * Not too vague, not too precise
 
-^ So I changed it to 42.5. I know that 42.5 is a more interesting title because of it's increase in precision. 42.5 sounds like I'm being pretty precise without being silly. It's 
+^ So I changed it to 42.5. I know that 42.5 is a more interesting title because of it's increase in precision. 42.5 sounds like I'm being pretty precise without being silly. It's the Goldilocks of this context.
 
 
 ---
@@ -297,40 +297,45 @@ So how did I pick it?
 ^ To be clear, I'm not a massive scrum fan. Even ardent scrum teams should visualise, inspect, and adapt their way to something better.
 
 ---
+# Story point problems
 
-^ don't like them
-Reasons why
-* The cargo cult of story points - Blindly adhered to, rarely understood, rarely to answer a specific question, without consideration of complexity etc
-precision
- - SPs are at a poor level of precision. Neither particularly precise for when that's appropriate, or revealing of the inherent error bound and unknowns in the estimate. 
-people think they can do things like capacity with them.
-- the Tuckman model myth in modern dynamic systems.
-- Dynamic reteaming - When was last time someone joined/left your team? parental leave? Sick leave? Secondment?
-- NOT advocating for 
-people doing maths
-2+2+2+2 is not the same as 8 story points
+^ They fall into a part of the precision spectrum that is... difficult. They look like they could be either quite precise or quite vague. They don't really inform. 
+^ More troubling: they look like numbers. They're intended to be relative i.e. "this one is bigger than that one" , but not by how much. People often treat them as time. People think you can do maths with them.
 
-better alternatives
-- slicing
-  - how? why? mechanisms?
-  - the talk: breaking it down to write
-    - Theme and stopwatch conceit
-    - Major takeaways
-    - How do we explain those takeaways?
-    - What does the audience need to know?
-    - How long does each part take?
-  - the talk: the performance
-    - I can slice here as well
-    - Know what the biggest parts are
-    - What cannot be skipped
-    - You don't know what the slides are so you don't know if I just skip one.
-    - As long as I can keep the rough structure in my head, I can slice as we go
-- Complexity
-  - How 
-- Just don't estimate -- in time at least
-  - Flow
-  - Value
-- "Can't not estimate, have deadlines"
+---
+
+# 2 + 2 + 2 + 2 != 8
+
+^ In most uses of story points, a 2 would be something quite small, quite well understand, and quite achieveable. An 8 should be something that's large, more complex, more unknowns, less experience in the team.
+^ a bunch of known things aren't the same as *any* number of unknown things.
+^ Fundamentally, these aren't different sizes: They're different experiences and have to be treated as such. 
+
+---
+
+# Velocity
+
+^ Velocity is this lack of coherent experience taken to an extreme. The fact people believe we can add a bunch of different story points together and gain predictability is silly. The only way you can reasonably do that is if they're all the same experience, they share the same level of complexity.
+^ TODO is this making a point you want to make?
+
+---
+
+# A Better Approach To Estimates
+
+^ TODO Just don't, until you actually have a question to answer.
+
+---
+
+"Can't not estimate, have deadlines"
+
+--- 
+
+^ TODO Think this slide was going to be the questions from the start?
+
+--- 
+
+# Slicing
+
+^ TODO how why mechanisms
   - Slice small using metrics that prioritise value
     - Smallest version that adds critical value
   - Slice for value, then flow.
@@ -340,8 +345,51 @@ better alternatives
     - Pretty much *always* deliver value to users way before "deadline"
     - Can then prioritise with more information.
 
-- Really need dates?
-  - Monte carlo simulation TODO lots to unpack here.
+---
+
+# Slicing and Unknowns
+
+^ TODO
+
+---
+
+# Slicing: Writing This Talk
+
+^ TODO
+    - Theme and stopwatch conceit
+    - Major takeaways
+    - How do we explain those takeaways?
+    - What does the audience need to know?
+    - How long does each part take?
+
+---
+
+# Slicing: Giving This Talk
+
+^ TODO
+- I can slice here as well
+    - Know what the biggest parts are
+    - What cannot be skipped
+    - You don't know what the slides are so you don't know if I just skip one.
+    - As long as I can keep the rough structure in my head, I can slice as we go
+
+---
+
+# Really Need Dates?
+## Probabilistic Forecasting
+
+^ - Monte carlo simulation TODO lots to unpack here.
+
+---
+
+
+
+^ TODO Summarise main themes
+- Most estimates are waste
+- Deadlines are usually fake until they're not
+- Focus on Experience - ^TODO this is not working for complexity proxy
+- Slice! Value first, and time next.
+- Probabilistic Forecasting
 
 
 
@@ -353,3 +401,23 @@ better alternatives
 
 ^ Thanks! !visibly stop  stopwatch and wait!
 ^ I do have time for questions, but let me pre-empt the first one: what time does the stopwatch say? To which, I'll answer: It doesn't matter. The estimate, like most estimates, never mattered. I've not broken my social contract deadline, I've delivered the value I hoped to deliver (info about the estimation), I did it by breaking the talk down, focussing on the outcomes I wanted, and then slicing until we got here. It doesn't matter whether or not we took 42.5 minute.
+^ Happy to take questions on anything, apart from story points. For some reason people get weird about them. If you're stuck on the story point material, just go on with your day. Sorry for wasting the last <stopwatch time> of your life. Ah, dang!
+
+
+---
+
+---
+
+
+---
+
+^ don't like them
+Reasons why
+* The cargo cult of story points - Blindly adhered to, rarely understood, rarely to answer a specific question, without consideration of complexity etc
+precision
+ - SPs are at a poor level of precision. Neither particularly precise for when that's appropriate, or revealing of the inherent error bound and unknowns in the estimate. 
+people think they can do things like capacity with them.
+- the Tuckman model myth in modern dynamic systems.
+- Dynamic reteaming - When was last time someone joined/left your team? parental leave? Sick leave? Secondment?
+- NOT advocating for 
+people doing maths
