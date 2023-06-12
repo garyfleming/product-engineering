@@ -173,18 +173,39 @@ We've established some external constraints (someone will kick me off stage even
 
 # A Kind of Complexity From Experience
 
+
+^ Liz Keogh has, in the past, talked about kinds of experience and what they mean in terms of how we act (building on Cynefin). You can think of these as broad categories on a spectrum.
+
+---
+
+# A Kind of Complexity From Experience
+
+* **You've done it before**
+* **Someone in the team has done it before**
+
+^ First two are pretty straight forward. If you've got quick access to experience, you can probably break it down and estimate accurately.
+
+---
+
+# A Kind of Complexity From Experience
+
+* You've done it before
+* Someone in the team has done it before
+* **Someone in the company has done it before**
+
+^ Third one: need knowledge acquisition, cross-training, cross-applicability to your system. You probably can't estimate directly. Broad timelines based on nearby experience
+
+---
+
+# A Kind of Complexity From Experience
+
 * You've done it before
 * Someone in the team has done it before
 * Someone in the company has done it before
-* Someone in the world has done it before
-* No-one has done it before
+* **Someone in the world has done it before**
+* **No-one has done it before**
 
-^ Liz Keogh has, in the past, talked about kinds of experience and what they mean in terms of how we act (building on Cynefin). You kind think of these 
-^ First two are pretty straight forward. If you've got quick access to experience, you can probably break it down and estimate accurately.
-^ Third one: need knowledge acquisition, cross-training, cross-applicability to your system. You probably can't estimate directly. Broad timelines based on nearby experience
 ^ Fourth and fifth mean you've got very little chance of estimating accurately. You don't have any knowledge of how to do them. You know they might be doable, or they might not. Instead, all you can do is break down the goal into a series of experiments to learn what you don't know. Rather than estimate the effort in a task, you timebox how long you'll spend learning a thing. At the end of the timebox, you check whether you've learned enough and, from a position of slightly more knowledge, you estimate how much longer you need to learn.
-
-^ TODO Put these on separate slides and visualise how to estimate?
 
 ^ TODO feels like it needs more
 
@@ -315,54 +336,78 @@ So how did I pick it?
 # Velocity
 
 ^ Velocity is this lack of coherent experience taken to an extreme. The fact people believe we can add a bunch of different story points together and gain predictability is silly. The only way you can reasonably do that is if they're all the same experience, they share the same level of complexity.
+^ How do we do that?
 ^ TODO is this making a point you want to make?
 
 ---
 
 # A Better Approach To Estimates
 
-^ TODO Just don't, until you actually have a question to answer.
+^ As I said earlier, just don't... until you have to. Most estimates are waste and you don't need to do them.
+^ More importantly understand the question you want to answer
 
----
-
-"Can't not estimate, have deadlines"
+^ TODO this feels like it's part of the summary move it to the end?
 
 --- 
 
-^ TODO Think this slide was going to be the questions from the start?
+# A Better Approach To Estimates
+
+* How long will something take?
+* When will we finish some work?
+* How much work can we bring in to a sprint?
+* Given two pieces of work, which should we do first?
+* Build understanding
+* Build predictability
+
+^ TODO Tie these to the solutions we've offered
+^ TODO this feels like it's part of the summary move it to the end?
 
 --- 
 
 # Slicing
 
-^ TODO how why mechanisms
-  - Slice small using metrics that prioritise value
-    - Smallest version that adds critical value
-  - Slice for value, then flow.
-  - Deliver often.
-  - CI/CD == Vital capability for delivery
-  - Frequently evaluate where you are against thinnest end to end delivery
+* Value
+* Prioritise
+* Flow
+
+^ Slicing is the art of taking big things, like our 8, and turning them into smaller valuable things that we understand. It's making 8's into 2s.
+^ First we take our big chunks of work, "features", "epics", and break them down into smaller pieces of value. An epic about session management becomes features on logging in, logging out, password resets, 2FA. Those features get broken down into smaller useful parts.
+Password reset becomes ...? ^ TODO this might be a bad example.
+
+^ TODO this is screaming out for a visualisation
+
+---
+
+# Slicing
+
+* Value
+* Prioritise
+* Flow
+
+^ These can then be prioritised to get a walking skeleton. What's the minimum number of stories you can do to get end to end value?
+^ Then Flow is a natural outcome. Lots of small, predictable parts ordered for value. As a bonus, this helps you deliver frequently and find out whether your assumptions about value (which were estimates) are true.
     - Pretty much *always* deliver value to users way before "deadline"
     - Can then prioritise with more information.
+  
 
 ---
 
 # Slicing and Unknowns
 
-^ TODO
+^ What about the things we lack experience in? You break those up in the same way. You find a small experiment that you timebox in the same way as before and flow it through your system. The outcome might be lots of other small parts
 
 ---
 
 # Slicing: Writing This Talk
 
-^ TODO
-    - Theme and stopwatch conceit
-    - Major takeaways
-    - How do we explain those takeaways?
-    - What does the audience need to know?
-    - How long does each part take?
 
----
+^ When I was writing this talk, I initially had a fairly big and vague topic, with one specific conceit. That's my epic. A vague idea.
+^ Broke it down by writing down the major takeways.
+^ For each major takeaway, I sketched out how to explain it. What did you need to know to understand it? How would I illustrate it? It included this bit here where I'd explain slicing through the writing of the talk, including this bit here where I worry about how to illustrate ideas.
+^ That'd be a handful of slides for each idea, some very important and some that I could leave out. I prioritised them
+^ Then to write it I focussed on just the key writing the key ideas that were high priority. And then just iterated until I was done.
+
+<!-- ---
 
 # Slicing: Giving This Talk
 
@@ -371,12 +416,25 @@ So how did I pick it?
     - Know what the biggest parts are
     - What cannot be skipped
     - You don't know what the slides are so you don't know if I just skip one.
-    - As long as I can keep the rough structure in my head, I can slice as we go
+    - As long as I can keep the rough structure in my head, I can slice as we go 
+    
+    ^ TODO not sure this slide adds anything
+-->
+
+---
+
+# Slicing is better than time-based estimation
+
+^ Slicing is a better than time-based estimation more than not. It helps you always be ready to go, get to a workable state quickly, and build predictability.
+If you want to know how much more you've got to do, then it's not that hard to figure out. You've got a bunch of evenly sliced small parts that are predictable?  So you take the time it's taken to do one of these and multiply by the number you have. Simple. It's still gonna be rough, because perfect slicing is hard and you're not perfect, but it's better than adding up 2, 8, and 13 and hoping that these very different things cohere.
 
 ---
 
 # Really Need Dates?
 ## Probabilistic Forecasting
+
+^ So you really, really need dates. Because you actually have a deadline. Don't worry, everything we've talked about already still works. Slicing, experience etc
+^ First, slice your work up into things that are the same size. If you can't do that, get them to a handful of buckets where everything  in that bucket are roughly similar in size and experience. Let's say S/M/L.
 
 ^ - Monte carlo simulation TODO lots to unpack here.
 
@@ -411,7 +469,7 @@ So how did I pick it?
 
 ---
 
-^ don't like them
+^ don't like story points
 Reasons why
 * The cargo cult of story points - Blindly adhered to, rarely understood, rarely to answer a specific question, without consideration of complexity etc
 precision
@@ -421,3 +479,10 @@ people think they can do things like capacity with them.
 - Dynamic reteaming - When was last time someone joined/left your team? parental leave? Sick leave? Secondment?
 - NOT advocating for 
 people doing maths
+
+^ TODO slicing how why mechanisms
+  - Slice small using metrics that prioritise value
+    - Smallest version that adds critical value
+  - Slice for value, then flow.
+  - Deliver often.
+  - CI/CD == Vital capability for delivery
