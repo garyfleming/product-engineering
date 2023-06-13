@@ -425,7 +425,7 @@ Password reset becomes ...? ^ TODO this might be a bad example.
 
 # Slicing is better than time-based estimation
 
-^ Slicing is a better than time-based estimation more than not. It helps you always be ready to go, get to a workable state quickly, and build predictability.
+^ Slicing is a better than time-based estimation more often than not. It helps you always be ready to go, get to a workable state quickly, and build predictability.
 If you want to know how much more you've got to do, then it's not that hard to figure out. You've got a bunch of evenly sliced small parts that are predictable?  So you take the time it's taken to do one of these and multiply by the number you have. Simple. It's still gonna be rough, because perfect slicing is hard and you're not perfect, but it's better than adding up 2, 8, and 13 and hoping that these very different things cohere.
 
 ---
@@ -433,21 +433,113 @@ If you want to know how much more you've got to do, then it's not that hard to f
 # Really Need Dates?
 ## Probabilistic Forecasting
 
+|  Size | Count | Span |
+| --- | --- | --- |
+| S |   |   |
+| M |   |   |
+| L |   |   |
+
 ^ So you really, really need dates. Because you actually have a deadline. Don't worry, everything we've talked about already still works. Slicing, experience etc
-^ First, slice your work up into things that are the same size. If you can't do that, get them to a handful of buckets where everything  in that bucket are roughly similar in size and experience. Let's say S/M/L.
+^ First, slice your work up into things that are the same size. If you can't do that, get them to a handful of buckets where everything  in that bucket are roughly similar in size and experience. Let's say S/M/L. To be clear you still want mostly small.
 
 ^ - Monte carlo simulation TODO lots to unpack here.
 
 ---
 
+# Probabilistic Forecasting
+
+|  Size | Count | Span |
+| --- | --- | --- |
+| S |  5 |   |
+| M |  2 |   |
+| L |  1 |   |
+
+^ How many of each you have. Still want mostly small. You'll see why soon
+
+---
+
+# Probabilistic Forecasting
+
+|  Size | Count | Span (days) |
+| --- | --- | --- |
+| S |  5 |  1 - 2 |
+| M |  2 |  2 - 5 |
+| L |  1 |  4 - 8 |
+
+^ Next the fun part. You go figure out how long these have taken in the past. Stuff you've previously thought was a small? How long did it actually take? Not an estimate: the actuals. That should produce a range. The smaller the item, the smaller the range. That's the unknown/experience effect coming in. Don't have data? You probably can't reliably predict anything then.
+^ TODO add bit on maths on ranges? Min/Max?
+^ TODO min = 5 + 4 + 4 = 13
+^ TODO MAX = 10 + 10 + 8 = 28
+
+---
+
+# Probabilistic Forecasting
+
+|  Size | Count | Span (days) | Iter 1 |
+| --- | --- | --- | --- |
+| S |  5 |  1 - 2 | 1 1 2 1 2 |
+| M |  2 |  2 - 5 | 5  2 |
+| L |  1 |  4 - 8 |  6  |
 
 
-^ TODO Summarise main themes
-- Most estimates are waste
-- Deadlines are usually fake until they're not
-- Focus on Experience - ^TODO this is not working for complexity proxy
+SUM => 20
+
+^ Then the fun part. You start running a monte carlo simulation.
+For each small, you get a computer to pick a random number from your range i.e. 1 -2 5 times. Then for M. Then L. We call this an iteration. You sum up the numbers
+Simplifying: Ignoring outliers (the time a small was 10), and distributions.
+
+---
+
+# Probabilistic Forecasting
+
+|  Size | Count | Span (days) | Iter 2 |
+| --- | --- | --- | --- |
+| S |  5 |  1 - 2 | 2 2 1 1 2 |
+| M |  2 |  2 - 5 | 4 4 |
+| L |  1 |  4 - 8 |  7  |
+
+SUM => 23
+
+^ Then do it again.
+
+---
+
+## SUM => 23, 20, 19, 21, 20 ...
+
+^ In fact, keep doing it. Do it a thousand times. Or get a computer to do it. These are all little attempts to simulate the future using real data from the past.
+
+---
+
+```
+        x
+        x   x
+        x   x
+        x   x   x
+ x      x   x   x   x
+ x   x  x   x   x   x       x
+18  19  20  21  22  23  24  25
+```
+
+^ TODO congrats you now have data. You can use this to. (20 samples shown)
+On average, you finish on day 21. Maybe 50% isn't good enough. 100% chance on day 25. etc
+Confidence intervals.
+
+---
+
+# Lot of work?
+
+^ Yes, I know, I keep saying you probably shouldn't do this unless you really need it. But don't worry, there are lots of tools that do this for you. Many even tie-in to your tracking systems to pull your actual data too. But avoid this unless you really need an estimate
+
+
+---
+
+# Summary
+
+- Most estimates are waste. Just don't.
+- Deadlines should be inspected
+- Focus on Experience
 - Slice! Value first, and time next.
-- Probabilistic Forecasting
+- Dates? Forecast, don't estimate.
 
 
 
@@ -469,6 +561,7 @@ If you want to know how much more you've got to do, then it's not that hard to f
 
 ---
 
+^ TODO predict the future: count cat/dog pics in last few talks. Ask how many this will have?
 ^ don't like story points
 Reasons why
 * The cargo cult of story points - Blindly adhered to, rarely understood, rarely to answer a specific question, without consideration of complexity etc
