@@ -230,7 +230,8 @@ We've established some external constraints (someone will kick me off stage even
 
 ---
 
-# Too Meta?
+
+![original fit](images/meta.jpg)
 
 ^ TODO insert picture of me here
 
