@@ -114,7 +114,7 @@ Often come from:
 Examples:
 * Building an app for a sporting event,
 * Regulatory requirements kicking in,
-* Creation of physical items
+* Physical manufacturing (or other lead times you don't control).
 
 ^ The only real deadlines I've seen are where they're tied to external events that we can't control or where there is a dependency on something else with a long lead time we can't control
 ^ They're not going to delay Wimbledon for your app.

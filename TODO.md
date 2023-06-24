@@ -95,3 +95,27 @@ That's why nobody in software is good at estimates."
 
 * Building options/slicing: I'm not following a script. I'm not an actor who has to say all the lines, and in the right order. I'm a practioner who understands a domain, and have a decent idea of how to move the talk around. I can do this on the fly. If I want to, I can jump forward and skip whole sections that you don't know exist. I have sliced the talk into chapters.
 TODO relate this to work slicing. value.
+
+
+* Is a frame at the start "Predictability"? That's what people want.
+
+* Is it worth adding in a hierarchy of estimates? Complexity/understanding are necessary (and higher) than time based estimation.
+* Key problem is people reach for time first, and use for everything.
+* One of the pillars of the talk was highly dependant teams. Wasn't needed. Interesting but inessential. Sliced it out.
+* Visualise breakdown of talk i.e. sl;icing of it
+* Inherent uncertainty in estimates based on experience. Has to be represented. Tie to story points.
+* "When will it be done?" done isn't a useful framing. Systems aren't done until we get rid of them. They evolve. When will a feature be ready? But the whole feature or an MVP? Reframe: when will we get value? SOON.
+* Lean into slicing as a mechanism for building trust to avoid estimation while proving value
+* How do I convince stakeholders that they don't need dates? Problem is a lack of trust. Trust is an outcome. Deliver frequent slices of value they can use and they'll stop asking about dates (unless they really need a date)
+* Put stopwatch question on a final slide
+* Re-emphasis actual delivery i.e. what we did in Managed Eng re the review.
+* More on data gathering
+* More on how we don't estimate
+
+* Is jump into complexity jarring? Needs smoothed?
+* Benefits of slicing in terms of predictability.
+* Revise the monte carlo stuff. Make sure it's understandable.
+* Talk about how my team don't estimate. Maybe how we slice and how we deal with complexity.
+* More on what to do, rather than what not do.
+* Too long on precision of estimates.
+* 
