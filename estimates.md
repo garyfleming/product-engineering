@@ -48,27 +48,51 @@ Opinions expressed in this talk are my own, and not representative of my employe
 
 ---
 
+# Predictability
+
+^ Last one is hugely important. We're mostly looking for some kind of predictability. Whether it's knowing when something will be available, when we'll get value, what we should do first, ultimately these questions are about predictability
+
+---
+
 # What do we estimate?
 
 * Effort
 * Elapsed time
-* Understanding
 * Cost
 * Value
 * Complexity
+* Understanding
 
 ^ Likewise, we can estimate a lot of different things.
+^ I'd also argue that the things nearer the bottom are more interesting and useful than the things at the top...
 
 ---
 
 ## Why do we really estimate?
 ## What do we really estimate?
-## What do we do with our estimates?
+## What do we really do with our estimates?
 
 ^ But what do we actually do? Most of the time the estimates I've seen teams create are not useful because they're not estimating for themselves. They're estimating to keep someone/thing else happy: a process, a JIRA scorecard, a project manager or other leader. External factors drive the estimates, not the team themselves.
 ^ They estimate almost purely in terms of effort/time. It's *rare* to see teams talking about complexity. Or value. Or cost. They're playing at estimation, rather than valuing it.
-^ Consequently what they do with the estimates is.. record it. They don't particularly reflect on it or use it to make new decisions. They don't drive direction. Those why we estimate questions are a setup for "Okay and now what should we do?" THey're not an answer in and of themselves. 
-^ TODO Split this. Possibly put the last chunk in a slide that repeats the why we estimate questions.
+
+---
+
+## Why do we really estimate?
+## What do we really estimate?
+## What do we really do with our estimates?
+
+^ Consequently what they do with the estimates is.. record it. They don't particularly reflect on it or use it to make new decisions. They don't drive direction. Those why we estimate questions are a setup for "Okay and now what should we do?" They're not an answer in and of themselves. 
+
+---
+
+# Upfront Anti-patterns
+
+* Scope roughly settled upfront
+* Estimated in real units of time
+* Estimate given when we have least knowledge
+* Scope/estimate recorded upfront
+
+^ If we settle the scope upfront, and give estimates in real units of time (or a near proxy), we're doing so when we have least knowledge of what we're going to achieve. That is, we haven't learned much yet fo inform us, and gain **experience*. So recording that upfront is just waste.
 
 --- 
 
@@ -83,9 +107,7 @@ Opinions expressed in this talk are my own, and not representative of my employe
 
 ^ Back to the question: who thinks this talk will be done 42.5 minutes after I started? i.e. who thinks it'll take that amount of time or less?
 ^ I mean, I could stop the talk right now and fulfill that criteria, but I probably wouldn't have done the job of delivering the talk.
-^ Let's imagine I do a reasonable conference talk in terms of content and takeaways: do you think I'll finish within a few minutes of the title's implicit deadline?
-^ TODO build this out?
-
+^ Let's imagine I do a reasonable conference talk in terms of content and takeaways: do you think I'll finish within a few minutes of the title's implicit **deadline**?
 
 ---
 
@@ -142,7 +164,6 @@ Examples:
 
 ^ IRL Maybe a manager gets annoyed that their self-imposed deadline they reported didn't get met. It doesn't matter that it was realistic or not, that it was artificial or not; there's a loss of trust and social capital. Teams who fail to deliver to deadlines consistently will lose trust.
 ^ Conversely, teams who are frequently held to unrealistic and arbitrary deadlines will lose trust in their management and leadership - Why should they be treated poorly for bad deadlines? Particularly those in which they didn't participate.
-^ TODO what should we do as managers and stakeholders
 
 ---
 
@@ -207,37 +228,51 @@ We've established some external constraints (someone will kick me off stage even
 
 ^ Fourth and fifth mean you've got very little chance of estimating accurately. You don't have any knowledge of how to do them. You know they might be doable, or they might not. Instead, all you can do is break down the goal into a series of experiments to learn what you don't know. Rather than estimate the effort in a task, you timebox how long you'll spend learning a thing. At the end of the timebox, you check whether you've learned enough and, from a position of slightly more knowledge, you estimate how much longer you need to learn.
 
-^ TODO feels like it needs more
-
-^ TODO talk about complexity of system e.g. interdependent teams hard to predict: any 
 
 ---
 
 # 42.5
 
-* I've done this talk zero times before.
+* I've done this talk one time before.
 
 | Place | Date | Slot time | Run time |
 | --- | --- | --- | --- |
 | Lean Agile Glasgow | 14th June 2023 | 45m approx. | ? | 
 
-^ I've literally never said these words out loud. Never in practice. Never for anything else. *I* am lacking experience. There's clearly a structure I'm following and a plan I have in mind, but I don't know if that's sound knowledge based on my understanding of this subject and the constraints we have today. I mean, the fact I have slides is a pretty obvious indicator that it's not all just off the cuff thinking. I had to write the slides. It took many hours. Including writing and planning to say this part here about how I haven't practiced, but do have a structure.
+^ I've barely said these words before. I did a single warmup, and have revised the deck. I ran it intentionally short to give time to incorporate feedback. *I* am lacking experience. How does that make you feel about the 42.5?
+
+---
+
+# 42.5
+
+^ There's clearly a structure I'm following and a plan I have in mind, but I don't know if that's sound knowledge based on my understanding of this subject and the constraints we have today. I mean, the fact I have slides is a pretty obvious indicator that it's not all just off the cuff thinking. I had to write the slides. It took many hours. Including writing and planning to say this part here about how I haven't practiced, but do have a structure.
 
 
 ---
 
 # Too Meta?
 
+^ Some of you are probably getting a little bit uncomfortable about the metaness of the talk. Like the talk is a little bit too much about the talk.
+
 ---
 
 
 ![original fit](images/meta.jpg)
 
-^ TODO insert picture of me here
-
-^ Some of you are probably getting a little bit uncomfortable about the metaness of the talk. But think about this, a talk is a deliverable, with a fairly real deadline, based on some knowledge and some unknowns, that we have to make decisions on upfront. I had to submit a title and and abstract and learning outcomes about this talk before I had written it. I had to decide the product months in advance, rather than feel my way along.
+^ But think about this, a talk is a deliverable, with a fairly real deadline, based on some knowledge and some unknowns, that we have to make decisions on upfront. I had to submit a title and and abstract and learning outcomes about this talk before I had written it. I had to decide the product months in advance, rather than feel my way along.
 If that's not a microcosm for a lot of software development, I don't know what is.
-So yes, the analogy will continue, but don't worry we'll be going to more overtly software stuff soon.
+
+---
+
+![original fit](images/meta.jpg)
+
+* Scope roughly settled upfront
+* Estimated in real units of time
+* Estimate given when we have least knowledge
+* Scope/estimate recorded upfront
+
+^ Sound like a familiar upfront anti-pattern?
+^ We'll talk a bit soon about how I avoided much of this in practice.
 
 ---
 
@@ -245,7 +280,7 @@ So yes, the analogy will continue, but don't worry we'll be going to more overtl
 
 * I wrote the talk title 5 months before I wrote the talk (because I thought this stopwatch idea was a good hook).
 
-^ The title isn't based on knowledge of the talk itself. I had to submit the talk title, description, and learning outcomes last year. November/December. I know the subject, but I didn't know the final 
+^ Let's focus on just the title for a minute. The title isn't based on knowledge of the talk itself. I had to submit the talk title, description, and learning outcomes last year. November/December. I know the subject, but I didn't know the final length. I didn't know everything that would make the cut.
 
 ---
 
@@ -289,8 +324,9 @@ So how did I pick it?
 
 * Believablely precise
 * Not too vague, not too precise
+* The sense of the shape, but a little blurry.
 
-^ So I changed it to 42.5. I know that 42.5 is a more interesting title because of it's increase in precision. 42.5 sounds like I'm being pretty precise without being silly. It's the Goldilocks of this context.
+^ So I changed it to 42.5. I know that 42.5 is a more interesting title because of its increase in precision. 42.5 sounds like I'm being pretty precise without being silly. It's the Goldilocks of this context.
 
 
 ---
@@ -317,20 +353,21 @@ So how did I pick it?
 ^ You might think that Scrum does, but there isn't any mention of them in scrum guide. It simply promotes empiricism. By empiricism, it very clearly means experience. Having people who know what to do, observing what happens each iteration, and then using that to inform what happens next.
 ^ Sounds a lot like Experience-based complexity, right?
 ^ To be clear, I'm not a massive scrum fan. Even ardent scrum teams should visualise, inspect, and adapt their way to something better.
+^ SAFe does. Not team level. Leave to audience to decide if agile.
 
 ---
 # Story point problems
 
 ^ They fall into a part of the precision spectrum that is... difficult. They look like they could be either quite precise or quite vague. They don't really inform. 
-^ More troubling: they look like numbers. They're intended to be relative i.e. "this one is bigger than that one" , but not by how much. People often treat them as time. People think you can do maths with them.
+^ Have you seen a story point? They look like numbers but they're intended to be relative i.e. "this one is bigger than that one" , but not by how much. People often treat them as time. People think you can do maths with them.
 
 ---
 
 # 2 + 2 + 2 + 2 != 8
 
 ^ In most uses of story points, a 2 would be something quite small, quite well understand, and quite achieveable. An 8 should be something that's large, more complex, more unknowns, less experience in the team.
-^ a bunch of known things aren't the same as *any* number of unknown things.
-^ Fundamentally, these aren't different sizes: They're different experiences and have to be treated as such. 
+^ a bunch of known things aren't the same as *any* number of unknown things. 
+^ Fundamentally, these aren't different sizes: They're different **experiences** and have to be treated as such. An 8 is less **predictable** than a 2.
 
 ---
 
@@ -338,18 +375,16 @@ So how did I pick it?
 
 ^ Velocity is this lack of coherent experience taken to an extreme. The fact people believe we can add a bunch of different story points together and gain predictability is silly. The only way you can reasonably do that is if they're all the same experience, they share the same level of complexity.
 ^ How do we do that?
-^ TODO is this making a point you want to make?
 
 ---
 
 # A Better Approach To Estimates
 
 ^ As I said earlier, just don't... until you have to. Most estimates are waste and you don't need to do them.
-^ More importantly understand the question you want to answer
+^ More importantly understand the question you want to answer. Assume for a while it's not about time, but instead is about something more important like value or complexity
 
-^ TODO this feels like it's part of the summary move it to the end?
 
---- 
+<!-- --- 
 
 # A Better Approach To Estimates
 
@@ -362,6 +397,15 @@ So how did I pick it?
 
 ^ TODO Tie these to the solutions we've offered
 ^ TODO this feels like it's part of the summary move it to the end?
+
+^ TODO there's something missing here but thuis slide ain't it.
+ -->
+
+---
+
+# The Art of Making 8s into 2s: Slicing
+
+^ Slicing is the art of making 8s into 2s.
 
 --- 
 
@@ -443,7 +487,6 @@ If you want to know how much more you've got to do, then it's not that hard to f
 ^ So you really, really need dates. Because you actually have a deadline. Don't worry, everything we've talked about already still works. Slicing, experience etc
 ^ First, slice your work up into things that are the same size. If you can't do that, get them to a handful of buckets where everything  in that bucket are roughly similar in size and experience. Let's say S/M/L. To be clear you still want mostly small.
 
-^ - Monte carlo simulation TODO lots to unpack here.
 
 ---
 
@@ -557,26 +600,8 @@ Confidence intervals.
 
 ---
 
+# What time is on the stopwatch?
+
+^ People are predictable. But it doesn't matter what time the talk actually took. It matters that we finished broadly at the right time, having hopefully delivered value every few minutes, and with a better understanding of the issues around estimation.
+
 ---
-
-
----
-
-^ TODO predict the future: count cat/dog pics in last few talks. Ask how many this will have?
-^ don't like story points
-Reasons why
-* The cargo cult of story points - Blindly adhered to, rarely understood, rarely to answer a specific question, without consideration of complexity etc
-precision
- - SPs are at a poor level of precision. Neither particularly precise for when that's appropriate, or revealing of the inherent error bound and unknowns in the estimate. 
-people think they can do things like capacity with them.
-- the Tuckman model myth in modern dynamic systems.
-- Dynamic reteaming - When was last time someone joined/left your team? parental leave? Sick leave? Secondment?
-- NOT advocating for 
-people doing maths
-
-^ TODO slicing how why mechanisms
-  - Slice small using metrics that prioritise value
-    - Smallest version that adds critical value
-  - Slice for value, then flow.
-  - Deliver often.
-  - CI/CD == Vital capability for delivery

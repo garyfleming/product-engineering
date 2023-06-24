@@ -97,6 +97,26 @@ That's why nobody in software is good at estimates."
 TODO relate this to work slicing. value.
 
 
+^ TODO predict the future: count cat/dog pics in last few talks. Ask how many this will have?
+^ don't like story points
+Reasons why
+* The cargo cult of story points - Blindly adhered to, rarely understood, rarely to answer a specific question, without consideration of complexity etc
+precision
+ - SPs are at a poor level of precision. Neither particularly precise for when that's appropriate, or revealing of the inherent error bound and unknowns in the estimate. 
+people think they can do things like capacity with them.
+- the Tuckman model myth in modern dynamic systems.
+- Dynamic reteaming - When was last time someone joined/left your team? parental leave? Sick leave? Secondment?
+- NOT advocating for 
+people doing maths
+
+^ TODO slicing how why mechanisms
+  - Slice small using metrics that prioritise value
+    - Smallest version that adds critical value
+  - Slice for value, then flow.
+  - Deliver often.
+  - CI/CD == Vital capability for delivery
+
+
 * Is a frame at the start "Predictability"? That's what people want.
 
 * Is it worth adding in a hierarchy of estimates? Complexity/understanding are necessary (and higher) than time based estimation.
@@ -118,4 +138,4 @@ TODO relate this to work slicing. value.
 * Talk about how my team don't estimate. Maybe how we slice and how we deal with complexity.
 * More on what to do, rather than what not do.
 * Too long on precision of estimates.
-* 
+* Too meta slide: put bullet points on that show all the things that are wrong with the process (upfront, estimated in time etc). Go back to start and have those same bullet points as a frame
