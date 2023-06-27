@@ -48,9 +48,9 @@ Opinions expressed in this talk are my own, and not representative of my employe
 
 ---
 
-# Predictability
+# We Estimate For Predictability
 
-^ Last one is hugely important. We're mostly looking for some kind of predictability. Whether it's knowing when something will be available, when we'll get value, what we should do first, ultimately these questions are about predictability
+^ Last one is hugely important. We're mostly looking for some kind of predictability. Whether it's knowing when something will be available, when we'll get value, what we should do first, ultimately these questions are about predictability. People mostly estimate for some kind of predictability
 
 ---
 
