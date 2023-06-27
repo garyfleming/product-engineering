@@ -117,8 +117,6 @@ people doing maths
   - CI/CD == Vital capability for delivery
 
 
-* Is a frame at the start "Predictability"? That's what people want.
-
 * Is it worth adding in a hierarchy of estimates? Complexity/understanding are necessary (and higher) than time based estimation.
 * Key problem is people reach for time first, and use for everything.
 * One of the pillars of the talk was highly dependant teams. Wasn't needed. Interesting but inessential. Sliced it out.
@@ -139,3 +137,8 @@ people doing maths
 * More on what to do, rather than what not do.
 * Too long on precision of estimates.
 * Too meta slide: put bullet points on that show all the things that are wrong with the process (upfront, estimated in time etc). Go back to start and have those same bullet points as a frame
+
+
+BIG TODO: Rework slicing section. It's terrible. Writing the talk bit is shaping up. Before that is messy.
+Focus on small predictable parts. Going end to end to get deliverable value early.
+Consider moving the talk example before the rest and then explaining it, including what to do with unknowns.

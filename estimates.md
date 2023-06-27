@@ -264,7 +264,7 @@ If that's not a microcosm for a lot of software development, I don't know what i
 
 ---
 
-![original fit](images/meta.jpg)
+![ fit](images/meta.jpg)
 
 * Scope roughly settled upfront
 * Estimated in real units of time
@@ -281,17 +281,7 @@ If that's not a microcosm for a lot of software development, I don't know what i
 * I wrote the talk title 5 months before I wrote the talk (because I thought this stopwatch idea was a good hook).
 
 ^ Let's focus on just the title for a minute. The title isn't based on knowledge of the talk itself. I had to submit the talk title, description, and learning outcomes last year. November/December. I know the subject, but I didn't know the final length. I didn't know everything that would make the cut.
-
----
-
-# Estimates
-
-* Title is an estimate
-* The estimate is in real units of time
-* The estimate was given when I had least knowledge of the content
-
-^ Title is an estimate I gave *in a real unit of time* months before I knew exactly what the content was going to be. A delivery estimate with only the faintest amount of information. Does this sound like a good idea? Estimating in time.
-So how did I pick it?
+^ So how did I Pick it?
 
 ---
 
@@ -366,7 +356,14 @@ So how did I pick it?
 # 2 + 2 + 2 + 2 != 8
 
 ^ In most uses of story points, a 2 would be something quite small, quite well understand, and quite achieveable. An 8 should be something that's large, more complex, more unknowns, less experience in the team.
-^ a bunch of known things aren't the same as *any* number of unknown things. 
+^ a bunch of known things aren't the same as *any* number of unknown things.
+
+---
+
+# 2 + 2 + 2 + 2 != 8
+## Different Experiences!
+## Different Predictability!
+
 ^ Fundamentally, these aren't different sizes: They're different **experiences** and have to be treated as such. An 8 is less **predictable** than a 2.
 
 ---
@@ -380,8 +377,8 @@ So how did I pick it?
 
 # A Better Approach To Estimates
 
-^ As I said earlier, just don't... until you have to. Most estimates are waste and you don't need to do them.
-^ More importantly understand the question you want to answer. Assume for a while it's not about time, but instead is about something more important like value or complexity
+^ As I said earlier, just don't... until you have to. Most estimates are waste and you don't need to do them. 
+^ More importantly understand the question you want to answer. Assume for a while it's not about time, but instead is about something more important like value or complexity. Only after that consider using techniques for temporal predictability.
 
 
 <!-- --- 
@@ -403,19 +400,22 @@ So how did I pick it?
 
 ---
 
-# The Art of Making 8s into 2s: Slicing
+# Predictability: Slicing
 
-^ Slicing is the art of making 8s into 2s.
+## The art of making 8s into 2s
+
+^ Slicing is the art of taking big things, like our 8, and turning them into smaller valuable things that we understand. It's making 8's into 2s.
 
 --- 
 
-# Slicing
+# Predictability: Slicing
+
+## The art of making 8s into 2s
 
 * Value
 * Prioritise
 * Flow
 
-^ Slicing is the art of taking big things, like our 8, and turning them into smaller valuable things that we understand. It's making 8's into 2s.
 ^ First we take our big chunks of work, "features", "epics", and break them down into smaller pieces of value. An epic about session management becomes features on logging in, logging out, password resets, 2FA. Those features get broken down into smaller useful parts.
 Password reset becomes ...? ^ TODO this might be a bad example.
 
@@ -445,26 +445,68 @@ Password reset becomes ...? ^ TODO this might be a bad example.
 
 # Slicing: Writing This Talk
 
+* How Estimates Are Used
+* Deadlines
+* Complexity
+* Precision
+* Problems With Sizing
+* Slicing (**which is this bit**)
+* Probabilistic Forecasting
 
-^ When I was writing this talk, I initially had a fairly big and vague topic, with one specific conceit. That's my epic. A vague idea.
-^ Broke it down by writing down the major takeways.
-^ For each major takeaway, I sketched out how to explain it. What did you need to know to understand it? How would I illustrate it? It included this bit here where I'd explain slicing through the writing of the talk, including this bit here where I worry about how to illustrate ideas.
-^ That'd be a handful of slides for each idea, some very important and some that I could leave out. I prioritised them
-^ Then to write it I focussed on just the key writing the key ideas that were high priority. And then just iterated until I was done.
 
-<!-- ---
+^ I wrote down all the ideas I wanted in the talk, some were specific ideas and slides, some were just big themes. Just brain dumped them all. Grouped them together into themed sections. Kind of like our 8s.
 
-# Slicing: Giving This Talk
+---
 
-^ TODO
-- I can slice here as well
-    - Know what the biggest parts are
-    - What cannot be skipped
-    - You don't know what the slides are so you don't know if I just skip one.
-    - As long as I can keep the rough structure in my head, I can slice as we go 
-    
-    ^ TODO not sure this slide adds anything
--->
+# Slicing: Writing This Talk
+
+* How Estimates Are Used
+  * Dysfunctions
+* Deadlines
+  * Fakelines
+* Complexity
+  * Experience
+* Precision
+...
+
+^ For each one, I tried to find a small idea within them that would serve as just enough to cover the topic. I then wrote that part. By doing this I had an MVP; end-to-end. I knew that, even if I ran short, I'd turn up and say something valuable. Also much easier to add to this skeleton
+
+
+---
+
+# Slicing: Writing This Talk
+
+* How Estimates Are Used
+  * How They Should be used
+  * How They Are Used
+  * Misunderstandings
+  * Dysfunction
+
+^ For each of the sections, I wrote down a bunch of small items that would explain the big idea. Any time one of those felt like it would be too big, I sliced it down again: what small ideas would explain the big one while giving value? If there was something I didn't know, what small bit of research/experimentation could I try?
+
+
+---
+
+# Slicing: Writing This Talk
+
+* How Estimates Are Used
+  * ✅ How They Should be used
+  * ✅ How They Are Used
+  * ❌ Misunderstandings
+  * ✅ Dysfunction
+
+^ I could then also look at value. Which of these are essential? Which are less useful? Remember the bit at the start about misunderstandings? No, because I cut it out. I knew there was other material here that mattered more.
+
+---
+
+^ I can slice when I present too. I'm not an actor on stage, reading lines in the same way, over and over. If I'm running long, I can cut bits out as I go.
+
+---
+
+## _I can slice when I present too. I'm not an actor on stage, reading lines in the same way, over and over. If I'm running long, I can cut bits out as I go._
+## Me, just now
+
+^ I can also choose whimsy.
 
 ---
 
