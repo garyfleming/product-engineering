@@ -237,10 +237,10 @@ We've established some external constraints (someone will kick me off stage even
 
 | Place | Date | Slot time | Run time |
 | --- | --- | --- | --- |
-| Lean Agile Glasgow | 14th June 2023 | 45m approx. | ? | 
+| Lean Agile Glasgow | 14th June 2023 | 45m approx. | 39m 18s | 
 | Agile in the city Bristol | 28th June 2023 | 45m approx. | ? |
 
-^ I've barely said these words before. I did a single warmup, and have revised the deck. I ran it intentionally short to give time to incorporate feedback. *I* am lacking experience. How does that make you feel about the 42.5?
+^ I've barely said these words before. I did a single warmup, and have revised the deck. I ran it intentionally short to give time to incorporate feedback. 60% of the deck changed. *I* am lacking experience. How does that make you feel about the 42.5?
 
 ---
 
@@ -624,12 +624,15 @@ Confidence intervals.
 - Dates? Forecast, don't estimate.
 
 
+^ GARY GET READY WITH THE STOPWATCH
 
 ---
 
 # Thank You
 
 @garyfleming
+
+![original right](images/meta.jpg)
 
 ^ Thanks! !visibly stop  stopwatch and wait!
 ^ I do have time for questions, but let me pre-empt the first one: what time does the stopwatch say? To which, I'll answer: It doesn't matter. The estimate, like most estimates, never mattered. I've not broken my social contract deadline, I've delivered the value I hoped to deliver (info about the estimation), I did it by breaking the talk down, focussing on the outcomes I wanted, and then slicing until we got here. It doesn't matter whether or not we took 42.5 minute.
