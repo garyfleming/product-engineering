@@ -233,11 +233,12 @@ We've established some external constraints (someone will kick me off stage even
 
 # 42.5
 
-* I've done this talk one time before.
+* I've done this talk one time(s) before.
 
 | Place | Date | Slot time | Run time |
 | --- | --- | --- | --- |
 | Lean Agile Glasgow | 14th June 2023 | 45m approx. | ? | 
+| Agile in the city Bristol | 28th June 2023 | 45m approx. | ? |
 
 ^ I've barely said these words before. I did a single warmup, and have revised the deck. I ran it intentionally short to give time to incorporate feedback. *I* am lacking experience. How does that make you feel about the 42.5?
 
@@ -378,25 +379,8 @@ If that's not a microcosm for a lot of software development, I don't know what i
 # A Better Approach To Estimates
 
 ^ As I said earlier, just don't... until you have to. Most estimates are waste and you don't need to do them. 
-^ More importantly understand the question you want to answer. Assume for a while it's not about time, but instead is about something more important like value or complexity. Only after that consider using techniques for temporal predictability.
+^ More importantly understand the question you want to answer. Assume for a while it's not about time, but instead is about something more important like value or complexity. Only after that consider using techniques for estimating against time.
 
-
-<!-- --- 
-
-# A Better Approach To Estimates
-
-* How long will something take?
-* When will we finish some work?
-* How much work can we bring in to a sprint?
-* Given two pieces of work, which should we do first?
-* Build understanding
-* Build predictability
-
-^ TODO Tie these to the solutions we've offered
-^ TODO this feels like it's part of the summary move it to the end?
-
-^ TODO there's something missing here but thuis slide ain't it.
- -->
 
 ---
 
@@ -404,7 +388,7 @@ If that's not a microcosm for a lot of software development, I don't know what i
 
 ## The art of making 8s into 2s
 
-^ Slicing is the art of taking big things, like our 8, and turning them into smaller valuable things that we understand. It's making 8's into 2s.
+^ One such better approach is slicing. Slicing is the art of taking big things, like our 8, and turning them into smaller valuable things that we understand. It's making 8's into 2s.
 
 --- 
 
@@ -451,7 +435,7 @@ Password reset becomes ...? ^ TODO this might be a bad example.
 * Precision
 * Problems With Sizing
 * Slicing (**which is this bit**)
-* Probabilistic Forecasting
+* Probabilistic Forecasting 
 
 
 ^ I wrote down all the ideas I wanted in the talk, some were specific ideas and slides, some were just big themes. Just brain dumped them all. Grouped them together into themed sections. Kind of like our 8s.
@@ -639,11 +623,20 @@ Confidence intervals.
 ^ I do have time for questions, but let me pre-empt the first one: what time does the stopwatch say? To which, I'll answer: It doesn't matter. The estimate, like most estimates, never mattered. I've not broken my social contract deadline, I've delivered the value I hoped to deliver (info about the estimation), I did it by breaking the talk down, focussing on the outcomes I wanted, and then slicing until we got here. It doesn't matter whether or not we took 42.5 minute.
 ^ Happy to take questions on anything, apart from story points. For some reason people get weird about them. If you're stuck on the story point material, just go on with your day. Sorry for wasting the last <stopwatch time> of your life. Ah, dang!
 
+---
 
 ---
 
 # What time is on the stopwatch?
 
 ^ People are predictable. But it doesn't matter what time the talk actually took. It matters that we finished broadly at the right time, having hopefully delivered value every few minutes, and with a better understanding of the issues around estimation.
+
+---
+
+# How do I convince my stakeholders?
+
+
+^ It's about trust. Dates by themselves won't build trust. Delivery on time builds trust. Even better, delivering value consistently and quickly way before a date will build trust. Then just stop giving the dates. They won't notice if you're delivering.
+
 
 ---
