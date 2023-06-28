@@ -390,44 +390,10 @@ If that's not a microcosm for a lot of software development, I don't know what i
 
 ^ One such better approach is slicing. Slicing is the art of taking big things, like our 8, and turning them into smaller valuable things that we understand. It's making 8's into 2s.
 
---- 
-
-# Predictability: Slicing
-
-## The art of making 8s into 2s
-
-* Value
-* Prioritise
-* Flow
-
-^ First we take our big chunks of work, "features", "epics", and break them down into smaller pieces of value. An epic about session management becomes features on logging in, logging out, password resets, 2FA. Those features get broken down into smaller useful parts.
-Password reset becomes ...? ^ TODO this might be a bad example.
-
-^ TODO this is screaming out for a visualisation
 
 ---
 
-# Slicing
-
-* Value
-* Prioritise
-* Flow
-
-^ These can then be prioritised to get a walking skeleton. What's the minimum number of stories you can do to get end to end value?
-^ Then Flow is a natural outcome. Lots of small, predictable parts ordered for value. As a bonus, this helps you deliver frequently and find out whether your assumptions about value (which were estimates) are true.
-    - Pretty much *always* deliver value to users way before "deadline"
-    - Can then prioritise with more information.
-  
-
----
-
-# Slicing and Unknowns
-
-^ What about the things we lack experience in? You break those up in the same way. You find a small experiment that you timebox in the same way as before and flow it through your system. The outcome might be lots of other small parts
-
----
-
-# Slicing: Writing This Talk
+# Example: Writing This Talk
 
 * How Estimates Are Used
 * Deadlines
@@ -442,7 +408,7 @@ Password reset becomes ...? ^ TODO this might be a bad example.
 
 ---
 
-# Slicing: Writing This Talk
+# Example: Writing This Talk
 
 * How Estimates Are Used
   * Dysfunctions
@@ -453,12 +419,12 @@ Password reset becomes ...? ^ TODO this might be a bad example.
 * Precision
 ...
 
-^ For each one, I tried to find a small idea within them that would serve as just enough to cover the topic. I then wrote that part. By doing this I had an MVP; end-to-end. I knew that, even if I ran short, I'd turn up and say something valuable. Also much easier to add to this skeleton
+^ For each one, I tried to find a small idea within them that would serve as just enough to cover the topic. I then wrote that part. By doing this I had an MVP; end-to-end. I knew that, even if I ran short, I'd turn up and say something valuable. Also much easier to add to this skeleton. A form of prioritisation. Unlocks value.
 
 
 ---
 
-# Slicing: Writing This Talk
+# Example: Writing This Talk
 
 * How Estimates Are Used
   * How They Should be used
@@ -471,7 +437,7 @@ Password reset becomes ...? ^ TODO this might be a bad example.
 
 ---
 
-# Slicing: Writing This Talk
+# Example: Writing This Talk
 
 * How Estimates Are Used
   * ✅ How They Should be used
@@ -491,6 +457,52 @@ Password reset becomes ...? ^ TODO this might be a bad example.
 ## Me, just now
 
 ^ I can also choose whimsy.
+
+--- 
+
+# Slicing Your Work
+
+
+* End to end value slice
+* Prioritise/discard remaining
+* Add what you learn
+* Maintain flow
+* Slice unknowns
+
+^ Focus on the same. What are the things that are essential? The pillars. Call out the minimal version of your product and deliver.
+Then focus on building out those pillars continuously.
+^ Prioritise what's left, adding in when you learn stuff and removing stuff you don't need.
+
+
+---
+
+# Slicing Your Work
+
+
+* End to end value slice
+* Prioritise/discard remaining
+* Add what you learn
+* Maintain flow
+* Slice unknowns
+
+^ Then Flow is a natural outcome. Lots of small, predictable parts ordered for value. As a bonus, this helps you deliver frequently and find out whether your assumptions about value (which were estimates) are true.
+    - Pretty much *always* deliver value to users way before "deadline"
+    - Can then prioritise with more information.
+
+---
+
+# Slicing Your Work
+
+
+* End to end value slice
+* Prioritise/discard remaining
+* Add what you learn
+* Maintain flow
+* Slice unknowns
+
+^ What about the things we lack experience in? You break those up in the same way. You find a small experiment that you timebox in the same way as before and flow it through your system. The outcome might be lots of other small parts
+^ Think carefully about prioritising unknowns. If you think they have value, prioritise early to find any problems early.
+
 
 ---
 
@@ -637,6 +649,13 @@ Confidence intervals.
 
 
 ^ It's about trust. Dates by themselves won't build trust. Delivery on time builds trust. Even better, delivering value consistently and quickly way before a date will build trust. Then just stop giving the dates. They won't notice if you're delivering.
+
+
+---
+
+# Are t-shirt sizes not just fixed, like story points?
+
+^ I don't think so. Story points are taken as precise (hence people do maths). T-shirt sizes are imprecise (hence people don't do maths - at least without converting to something else).
 
 
 ---
