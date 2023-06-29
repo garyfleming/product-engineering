@@ -22,7 +22,6 @@ Prework:
 
 ^ This talk is called Estimates... [start stopwatch visibly]
 ^ My name is Gary, I am a ..., been doing agile stuff for many years.
-^ WIP TALK! What I want...
 ^ My first question to you is: do you think that this talk will take 42.5 minutes? You'll have a few minutes to think about it.
 
 ---
@@ -238,7 +237,7 @@ We've established some external constraints (someone will kick me off stage even
 | Place | Date | Slot time | Run time |
 | --- | --- | --- | --- |
 | Lean Agile Glasgow | 14th June 2023 | 45m approx. | 39m 18s | 
-| Agile in the city Bristol | 28th June 2023 | 45m approx. | ? |
+| Agile in the city Bristol | 28th June 2023 | 45m | ? |
 
 ^ I've barely said these words before. I did a single warmup, and have revised the deck. I ran it intentionally short to give time to incorporate feedback. 60% of the deck changed. *I* am lacking experience. How does that make you feel about the 42.5?
 
@@ -277,11 +276,24 @@ If that's not a microcosm for a lot of software development, I don't know what i
 
 ---
 
+![ fit](images/meta.jpg)
+
+* Scope roughly settled upfront
+* Estimated in real units of time
+* Estimate given when we have least knowledge
+* Scope/estimate recorded upfront
+
+![original fit right](images/upfront-anti-patterns.png)
+
+^ Y'know, this slide... from earlier
+
+---
+
 # 42.5
 
 * I wrote the talk title 5 months before I wrote the talk (because I thought this stopwatch idea was a good hook).
 
-^ Let's focus on just the title for a minute. The title isn't based on knowledge of the talk itself. I had to submit the talk title, description, and learning outcomes last year. November/December. I know the subject, but I didn't know the final length. I didn't know everything that would make the cut.
+^ Let's focus on just the title for a minute. The title isn't based on knowledge of the talk itself. I had to submit the talk title, description, and learning outcomes last year. November/December. I knew the subject, but I didn't know the final length. I didn't know everything that would make the cut.
 ^ So how did I Pick it?
 
 ---
@@ -326,6 +338,16 @@ If that's not a microcosm for a lot of software development, I don't know what i
 
 ^ Good estimates aren't about precision. They're not. Broad estimates that have implicit error bounds and uncertainty help establish trust. They show, to some extent, that you know that you don't know.
 
+
+
+---
+
+# Increasing precision of estimates can have negative effects
+
+* 11th December, 11.52am
+* Late Nov/Early Dec.
+
+^ Look at these examples. Which do you believe more?
 ^ Overly precise estimates in this context decrease trust. They decrease. Using flat numerical systems with no error bounds leads to all sorts of weird behaviour and misunderstanding.
 
 ---
@@ -349,8 +371,8 @@ If that's not a microcosm for a lot of software development, I don't know what i
 ---
 # Story point problems
 
-^ They fall into a part of the precision spectrum that is... difficult. They look like they could be either quite precise or quite vague. They don't really inform. 
-^ Have you seen a story point? They look like numbers but they're intended to be relative i.e. "this one is bigger than that one" , but not by how much. People often treat them as time. People think you can do maths with them.
+^ They fall into a part of the precision spectrum that is... difficult. They're intended to be vague but look quite precise. 
+^ Have you seen a story point? They look like numbers but they're intended to be relative i.e. "this one is bigger than that one" , but not by how much. People don't see the error bound. People often treat them as time. People think you can do maths with them.
 
 ---
 
@@ -635,8 +657,6 @@ Confidence intervals.
 ![original right](images/meta.jpg)
 
 ^ Thanks! !visibly stop  stopwatch and wait!
-^ I do have time for questions, but let me pre-empt the first one: what time does the stopwatch say? To which, I'll answer: It doesn't matter. The estimate, like most estimates, never mattered. I've not broken my social contract deadline, I've delivered the value I hoped to deliver (info about the estimation), I did it by breaking the talk down, focussing on the outcomes I wanted, and then slicing until we got here. It doesn't matter whether or not we took 42.5 minute.
-^ Happy to take questions on anything, apart from story points. For some reason people get weird about them. If you're stuck on the story point material, just go on with your day. Sorry for wasting the last <stopwatch time> of your life. Ah, dang!
 
 ---
 
