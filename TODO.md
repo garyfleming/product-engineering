@@ -1,19 +1,9 @@
 # Possible TODOs.
 
-* Start: Walk on start a stopwatch and announce the title. Ask the audience how accurate they think the title will be. Get into the precision element too
-* stopwatch conceit. After asking audience about accuracy and precision of my guess, get into the real question: does it matter? Time taken is something of a concern (I have to finish on time) but value from the talk is more important
-
 * do we want to tie the complexity of the system of work to ability to estimate? I.e. teams that are highly interdependent get to be hard to predict.
 * Noestimates? -- Probably, but only obliquely. Still too emotionally charged.
 
-* The cargo cult of story points - Blindly adhered to, rarely understood, rarely to answer a specific question, without consideration of complexity etc
 
-
-* "When a software delivery group is forced to estimate tasks, this tends to trap them in an environment of obligation without responsibility. And often the person demanding these estimates finds themself in the very same trap.
-
-Who will free them? or will they be forced to take the (often) significant risk of breaking free?
-
-#lightweight #micromanagement" https://mastodon.social/@jbrains/109547187998064730
 
 * https://jessitron.com/2022/12/22/velocity-defeats-itself-get-acceleration-instead/
 
@@ -124,11 +114,9 @@ people doing maths
 * Inherent uncertainty in estimates based on experience. Has to be represented. Tie to story points.
 * "When will it be done?" done isn't a useful framing. Systems aren't done until we get rid of them. They evolve. When will a feature be ready? But the whole feature or an MVP? Reframe: when will we get value? SOON.
 * Lean into slicing as a mechanism for building trust to avoid estimation while proving value
-* How do I convince stakeholders that they don't need dates? Problem is a lack of trust. Trust is an outcome. Deliver frequent slices of value they can use and they'll stop asking about dates (unless they really need a date)
-* Put stopwatch question on a final slide
+
 * Re-emphasis actual delivery i.e. what we did in Managed Eng re the review.
 * More on data gathering
-* More on how we don't estimate
 
 * Is jump into complexity jarring? Needs smoothed?
 * Benefits of slicing in terms of predictability.
@@ -139,6 +127,11 @@ people doing maths
 * Too meta slide: put bullet points on that show all the things that are wrong with the process (upfront, estimated in time etc). Go back to start and have those same bullet points as a frame
 
 
-BIG TODO: Rework slicing section. It's terrible. Writing the talk bit is shaping up. Before that is messy.
-Focus on small predictable parts. Going end to end to get deliverable value early.
-Consider moving the talk example before the rest and then explaining it, including what to do with unknowns.
+
+* Validity of data after people leave.
+* "We use estimates for shared understanding. Different story points mean we have different understandings". Honestly, I'm fine with that. But then throw the SPs away. Don't bring them over and pretend they're now a useful time metric.
+* Make a better monte carlo slide. More data, ranges, percentages etc
+* remove the bit about slicing the presentation itself.
+* The great thing about time is we get to waste it at a cheap rate: one day per day. Money? You can spend an unbound amount of that. Time is cheap. Wait, one day per person per day. How cheap are people?
+* Tools for monte carlo
+* What we want is "Can we afford this? Can get this done?", but what we ask is "When will we get this?" Anyone hearing t

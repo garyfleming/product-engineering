@@ -84,6 +84,12 @@ Opinions expressed in this talk are my own, and not representative of my employe
 
 ---
 
+# All estimates must drive decisions
+
+^ Anything we estimate (time, value, complexity) must end up in a decision. If nothing changes because of the estimate, we're probably in a rote process. That's waste.
+
+---
+
 # Upfront Anti-patterns
 
 * Scope roughly settled upfront
@@ -91,7 +97,7 @@ Opinions expressed in this talk are my own, and not representative of my employe
 * Estimate given when we have least knowledge
 * Scope/estimate recorded upfront
 
-^ If we settle the scope upfront, and give estimates in real units of time (or a near proxy), we're doing so when we have least knowledge of what we're going to achieve. That is, we haven't learned much yet fo inform us, and gain **experience*. So recording that upfront is just waste.
+^ So when we fall into these patterns of settling the scope upfront, and give estimates in real units of time (or a near proxy), we're doing so when we have least knowledge of what we're going to achieve. That is, we haven't learned much yet fo inform us, and gain **experience*. So recording that upfront is just waste.
 
 --- 
 
@@ -99,6 +105,12 @@ Opinions expressed in this talk are my own, and not representative of my employe
 
 ^ If this is your approach to estimation, I've got great news: you'll probably be just as well off just not doing it. If your estimates don't feed back into a meaningful decision making process, if you don't look at the gamut of things you can estimate, you can probably just skip it.
 ^ Even if you do engage a little more, I'm going to argue that just focussing on time isn't as useful as other techniques.
+
+---
+
+# I don't.
+
+^ This is based on experience. The teams I work with are highly effective, they're great at delivery, they have wildly successful products in their context, and they don't estimate. Anything. Ever.
 
 ---
 
@@ -232,14 +244,15 @@ We've established some external constraints (someone will kick me off stage even
 
 # 42.5
 
-* I've done this talk one time(s) before.
+* I've done this talk two time(s) before.
 
 | Place | Date | Slot time | Run time |
 | --- | --- | --- | --- |
 | Lean Agile Glasgow | 14th June 2023 | 45m approx. | 39m 18s | 
-| Agile in the city Bristol | 28th June 2023 | 45m | ? |
+| Agile in the city Bristol | 28th June 2023 | 45m | 39m |
+| Agile on the Beach | 7th July 2023 | 45m | ? |
 
-^ I've barely said these words before. I did a single warmup, and have revised the deck. I ran it intentionally short to give time to incorporate feedback. 60% of the deck changed. *I* am lacking experience. How does that make you feel about the 42.5?
+^ I've said some of these words before. I did a warmup (LAG) and one other presentation. I ran it intentionally short to give time to incorporate feedback. 60% of the deck changed. Thought it would be over time. It got short! This time I changed X% . How does that make you feel about the 42.5?
 
 ---
 
@@ -532,6 +545,48 @@ Then focus on building out those pillars continuously.
 
 ^ Slicing is a better than time-based estimation more often than not. It helps you always be ready to go, get to a workable state quickly, and build predictability.
 If you want to know how much more you've got to do, then it's not that hard to figure out. You've got a bunch of evenly sliced small parts that are predictable?  So you take the time it's taken to do one of these and multiply by the number you have. Simple. It's still gonna be rough, because perfect slicing is hard and you're not perfect, but it's better than adding up 2, 8, and 13 and hoping that these very different things cohere.
+
+---
+
+[.build-lists: true]
+
+# But The Stakeholders Need Dates!
+
+* Slice first
+* Deliver frequently
+* Trust is an outcome
+
+^ If that's what they're used to (whether customers, boss, whatever), of course they want dates. They've seen long projects go wrong before. They know it's one lever they have for control. Fundamentally this is a lack of trust. So slice first, and then deliver frequently. Demonstrate they can change their focus. Show they can start thinking about outcomes and change. Trust is an outcome of action. Once you have it they'll stop caring about dates.
+
+---
+
+## Slicing is a mechanism for building trust while providing continuous value, and avoiding estimation
+
+^ Let me say that again loud and clear.
+
+---
+
+# Avoiding Estimates
+
+* Set goals
+* Slice first
+* Deliver frequently
+* Show, don't tell.
+* Real things only
+
+^ This is what my teams do. We set goals. We slice everything down. (This can be iterative). Then we deliver. And we know we are delivering because every two weeks we do a review that anyone can turn up to and each team presents for 15 minutes on what they've delivered. The reviews are simple: no slides (show), talk through decisions (helps cohesion and allows understanding), and only show real completed things.
+
+---
+
+# Avoiding Estimates
+
+* Set goals
+* Slice first
+* Deliver frequently
+* Show, don't tell.
+* Real things only
+
+^ If the things aren't complete, don't show them. Nothing to show, then we have a conversation about why and how we can slice better to get continuous value. This review is a FEEDBACK loop.
 
 ---
 
