@@ -669,19 +669,22 @@ SUM => 23
 
 ---
 
-```
-        x
-        x   x
-        x   x
-        x   x   x
- x      x   x   x   x
- x   x  x   x   x   x       x
-18  19  20  21  22  23  24  25
-```
+![original fit](images/monte.jpg)
 
-^ TODO congrats you now have data. You can use this to. (20 samples shown)
-On average, you finish on day 21. Maybe 50% isn't good enough. 100% chance on day 25. etc
-Confidence intervals.
+^  Now plot all those data points on a graph. Know what you;re thinking. Fancy graphic. You'll see (especially with more data) a curve appear for probability
+
+---
+
+![original fit](images/monte2.jpg)
+
+^ On average, you finish on day 21. Maybe 50% isn't good enough. 100% chance on day 25. etc Boss asks about chances of delivering on day 18? 10%. Let them decide if he wants to communicate that date to the client
+
+
+---
+
+![original fit](images/monte2.jpg)
+
+^ There are lots of tools that can do this for you, like Actionable Agile, that will plot the graph and pull data from JIRA or wherever.
 
 ---
 
