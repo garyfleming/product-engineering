@@ -482,17 +482,6 @@ If that's not a microcosm for a lot of software development, I don't know what i
 
 ^ I could then also look at value. Which of these are essential? Which are less useful? Remember the bit at the start about misunderstandings? No, because I cut it out. I knew there was other material here that mattered more.
 
----
-
-^ I can slice when I present too. I'm not an actor on stage, reading lines in the same way, over and over. If I'm running long, I can cut bits out as I go.
-
----
-
-## _I can slice when I present too. I'm not an actor on stage, reading lines in the same way, over and over. If I'm running long, I can cut bits out as I go._
-## Me, just now
-
-^ I can also choose whimsy.
-
 --- 
 
 # Slicing Your Work
