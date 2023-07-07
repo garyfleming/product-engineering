@@ -72,21 +72,19 @@ Opinions expressed in this talk are my own, and not representative of my employe
 ## What do we really do with our estimates?
 
 ^ But what do we actually do? Most of the time the estimates I've seen teams create are not useful because they're not estimating for themselves. They're estimating to keep someone/thing else happy: a process, a JIRA scorecard, a project manager or other leader. External factors drive the estimates, not the team themselves.
-^ They estimate almost purely in terms of effort/time. It's *rare* to see teams talking about complexity. Or value. Or cost. They're playing at estimation, rather than valuing it.
+^ They estimate almost purely in terms of effort/time. It's *rare* to see teams talking about complexity. Or value. Or cost. 
 
 ---
 
-## Why do we really estimate?
-## What do we really estimate?
-## What do we really do with our estimates?
+# Ritualistic estimation gets recorded
 
-^ Consequently what they do with the estimates is.. record it. They don't particularly reflect on it or use it to make new decisions. They don't drive direction. Those why we estimate questions are a setup for "Okay and now what should we do?" They're not an answer in and of themselves. 
+^ Ritualistic estimation, rather than economic or scientific.Consequently what they do with the estimates is.. record it. They don't particularly reflect on it or use it to make new decisions. They don't drive direction. Those why we estimate questions are a setup for "Okay and now what should we do?" They're not an answer in and of themselves. 
 
 ---
 
 # All estimates must drive decisions
 
-^ Anything we estimate (time, value, complexity) must end up in a decision. If nothing changes because of the estimate, we're probably in a rote process. That's waste.
+^ Anything we estimate (time, value, complexity) must end up in a decision. If nothing changes because of the estimate, we're probably in a ritualistic process. That's waste.
 
 ---
 
@@ -249,16 +247,30 @@ We've established some external constraints (someone will kick me off stage even
 | Place | Date | Slot time | Run time |
 | --- | --- | --- | --- |
 | Lean Agile Glasgow | 14th June 2023 | 45m approx. | 39m 18s | 
-| Agile in the city Bristol | 28th June 2023 | 45m | 39m |
+| Agile in the city Bristol | 28th June 2023 | 45m | ? |
 | Agile on the Beach | 7th July 2023 | 45m | ? |
 
-^ I've said some of these words before. I did a warmup (LAG) and one other presentation. I ran it intentionally short to give time to incorporate feedback. 60% of the deck changed. Thought it would be over time. It got short! This time I changed X% . How does that make you feel about the 42.5?
+^ I've said some of these words before. I did a warmup (LAG) and one other presentation. I ran it intentionally short to give time to incorporate feedback. 60% of the deck changed, adding, removing, and modifying. I was concerned I'd go over. Guess was ~45m
 
 ---
 
 # 42.5
 
-^ There's clearly a structure I'm following and a plan I have in mind, but I don't know if that's sound knowledge based on my understanding of this subject and the constraints we have today. I mean, the fact I have slides is a pretty obvious indicator that it's not all just off the cuff thinking. I had to write the slides. It took many hours. Including writing and planning to say this part here about how I haven't practiced, but do have a structure.
+* I've done this talk two time(s) before.
+
+| Place | Date | Slot time | Run time |
+| --- | --- | --- | --- |
+| Lean Agile Glasgow | 14th June 2023 | 45m approx. | 39m 18s | 
+| Agile in the city Bristol | 28th June 2023 | 45m | **39m** |
+| Agile on the Beach | 7th July 2023 | 45m | ? |
+
+^ It got shorter! This time I changed 2150%, almost all additions. 15% on 39 should be nearly exactly 45m. How does that make you feel about the 42.5?
+
+---
+
+# 42.5
+
+^ As much as I don't know how long it'll take given the additions, I'm not freewheeling. There's clearly a structure I'm following. I mean, the fact I have slides is a pretty obvious indicator that it's not all just off the cuff thinking. I had to write the slides. It took many hours. Including writing and planning to say this part here about how I haven't practiced this version, but do have a structure.
 
 
 ---
@@ -304,7 +316,7 @@ If that's not a microcosm for a lot of software development, I don't know what i
 
 # 42.5
 
-* I wrote the talk title 5 months before I wrote the talk (because I thought this stopwatch idea was a good hook).
+* I wrote the **title** 5 months before I wrote the talk (because I thought this stopwatch idea was a good hook).
 
 ^ Let's focus on just the title for a minute. The title isn't based on knowledge of the talk itself. I had to submit the talk title, description, and learning outcomes last year. November/December. I knew the subject, but I didn't know the final length. I didn't know everything that would make the cut.
 ^ So how did I Pick it?
@@ -700,6 +712,7 @@ SUM => 23
 # Thank You
 
 @garyfleming
+@garyfleming@mastodon.social
 
 ![original right](images/meta.jpg)
 
