@@ -44,4 +44,6 @@ I'll bring it back together at the end to how I should've estimated the talk its
 
 # History
 
-TODO history goes here.
+* 14/06/2023 - Preview at Lean Agile Glasgow
+* 29/06/2023 - Agile in the City Bristol & Bath
+* 06/07/2023 - [Agile On The Beach with Video](https://youtu.be/RXSioHVmBN8)
