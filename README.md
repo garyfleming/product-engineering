@@ -1,49 +1,40 @@
-# Estimates And Complexity
+# Perfect Patterns For Product Partnerships And Engineering Excellence
 
 ## Description/Abstract
 
-This tale will last forty two and a half minutes.
+Product people make decisions, engineers do the work, right? Wrong!
 
-How confident are you that this talk will last this long? What happens if we go over, or under? Are the reasons for it varying from that time fixed by external factors or complexities?
+Increasingly, companies who make software have fallen into anti-patterns around how Product Management and Engineering interact. We see engineers treading Product as business analysts, product managers acting like project managers, and a whole lot of other dysfunction.
 
-Most estimation goes badly wrong because it focusses on estimating the wrong things at the wrong times, without considering precision, complexity, and the reasons for the estimate in the first place. 
+There's no single way to manage the collaboration required between Product and Engineering to maximise success, but there are a number of patterns we've seen that have helped ensure good outcomes - as well as those anti-patterns that rarely work.
 
-We're going to tell you all about what makes work predictable, and what makes it more difficult to understand. We'll help you ask the right questions in each situation so that you're as prepared as you can be.
-
-If you want to go beyond simple time-based estimation, like story points, we've got a tale to tell you that'll change how you work forever... and it's only forty two and a half minutes long.
+We'll talk about how you can improve your product and engineering relationships, and use agile techniques to help bridge the gaps.
 
 
 ## 75-80 Word Summary
 
-This tale will last forty two and a half minutes.
-
-How confident are you that this talk will last this long? What happens if we go over, or under? Are the reasons for it varying from that time fixed by external factors or complexities?
-
-Most estimation goes badly wrong because it focusses on estimating the wrong things at the wrong times, without considering precision, complexity, and the reasons for the estimate in the first place. 
+...
 
 
 ## Actionable Takeaways
 
 After this session:
 
-* You will have a number of tools that will help you estimate time, complexity, value, and other valuable concepts to shape your decision making.
-* You will be able to understand when 
-* You'll understand when to use useful estimation techniques at the right times.
+* You'll understand how to spot some of the anti-patterns around product and engineering relationships,
+* You'll know when to take different collaborative stances depending on the outcomes required,
+* You'll feel more confident in shifting your partnerships towards more productive patterns to maximise your chances of success.
 
 
 ## Session outline (reviewers only)
 
+I'm going to start by covering a number of the anti-patterns I've seen where product and engineering aren't collaborating in healthy ways; where product are telling engineering what to do, where engineering aren't listening to product etc and the natural consequences of doing that.
 
-I'm going to start by covering a number of the anti-patterns and misunderstandings we frequently see when people adopt agile in a rote way: they'll use things like story points without really understanding the questions they're trying to answer. I'll do this initially by interrogating the "forty two and a half minute" talk claim in the title, and helping people understand why it's minimally helpful, overly precise, and probably wrong. I'll then relate this to what we see in many software teams, and show that it's not all that different.
+I'm then going to move onto the idea that there are no easy answers and that what we should do is dispositional: it depends highly on the kind of products being created. Is it for internal customers, or external? Is it in a new market? Is it disrupting an existing field? Each of these change the focus of the collaborative relationship.
 
-Then we'll cover some of the areas that people could find it more useful to probe with estimates: is this thing valuable? What are the chances of our approach succeeding? How well do we understand this, in the complexity sense? etc.
+Having explained the dispositionality, I'll then move onto giving the attendees the patterns that can help them in each situation, as well as agile tools that will help them refocus their product/engineering relationships to be as productive as possible.
 
-I'll then give attendees a number of estimation tools and techniques, with worked examples to help them do the right thing at the right time. This will cover complexity estimation (Liz Keogh's Capability Red), value estimation (probably some form of cost of delay), and planning estimation.
-
-I'll bring it back together at the end to how I should've estimated the talk itself using complexity and value estimation, rather than time. Oh, and I probably won't finish exactly at forty two and a half minutes.
+I'll end by reminding them that these are just patterns, but that they're helpful - and necessarily incomplete. I'll encourage them to use them for as long as they're helping, but to not hold them to close. Every pattern has limits, and we should be constantly asking when we're done with our current techniques.
 
 # History
 
-* 14/06/2023 - Preview at Lean Agile Glasgow
-* 29/06/2023 - Agile in the City Bristol & Bath
-* 06/07/2023 - [Agile On The Beach with Video](https://youtu.be/RXSioHVmBN8)
+TBD
