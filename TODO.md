@@ -23,3 +23,19 @@
 * Good aligning principle for internal systems - would users use your system if they didn’t have to?
 
 * what’s the best thing we can do for our customer. Shift emphasis between best thing, we, can do. i.e. "what's the *best thing* we can do ...", "what's the best thing *we* can do..." "what's the best thing we *can do*..."
+
+* Product pairings that worked and didnt
+  * M & CM 
+  * N & L
+  * L & T
+
+* part of effectiveness in larger orgs is networking. Making sure that you’re linking up people who need to know each other including your product partners.
+
+* what are the big questions you want to answer? Are they the same? Where do they differ?
+
+* this thread about ensuring your strategy comes from what you want to solve. https://twitter.com/shreyas/status/1759293490276761829
+
+* engineers usually focus on a strategy to save the system they’re working on. Not the broader product, but specifically the system they have. Neither would be right. Must evolve the product and system to meet needs and derive value.
+* similarly product owners will over focus on the product not the needs.
+
+* thinking about now next later and even much later (years). Ensure you’re aligned on what those mean. That they’re not promises to do stuff, they’re possibilities. They’re not backlogs. Ensure you’re laying the engineering and product groundwork.
