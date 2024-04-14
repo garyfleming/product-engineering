@@ -39,3 +39,25 @@
 * similarly product owners will over focus on the product not the needs.
 
 * thinking about now next later and even much later (years). Ensure you’re aligned on what those mean. That they’re not promises to do stuff, they’re possibilities. They’re not backlogs. Ensure you’re laying the engineering and product groundwork.
+
+* how to deal with tech debt - product owners who don't know how it affects delivery are doomed to fail and develop a worsening relationship. Engineers who focus on it at the cost of delivery will fail too.
+  * Strategies like "x% of time for tech debt" are usually naive - they lack context, and are usually the first thing cut.
+
+* Quadrant diagram - Can we frame the majority of the talk around this? Kind of product (internal vs external) against kind of company (enterprise vs startup)
+  * Use this to explore personas
+
+
+* Common points of interest and contention
+  * Tech debt
+  * prioritisation
+  * roadmap
+  * dates
+  * metrics
+  * 
+
+
+* TL;DR
+  * Build the relationship and build empathy
+  * Understand where each partner wants to be
+  * Find out to get there
+  * Understand the company context and how it changes - figure out where to act

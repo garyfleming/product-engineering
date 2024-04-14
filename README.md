@@ -1,4 +1,5 @@
 # Perfect Patterns For Product Partnerships And Engineering Excellence
+# Product x Engineering: A Guide To Organizing Patterns
 
 ## Description/Abstract
 
@@ -13,7 +14,9 @@ We'll talk about how you can improve your product and engineering relationships,
 
 ## 75-80 Word Summary
 
-...
+Increasingly, companies who make software have fallen into anti-patterns around how Product Management and Engineering interact. We see engineers treading Product as business analysts, product managers acting like project managers, and a whole lot of other dysfunction.
+
+There's no single way to manage the collaboration required between Product and Engineering to maximise success, but there are a number of patterns we've seen that have helped ensure good outcomes - as well as those anti-patterns that rarely work.
 
 
 ## Actionable Takeaways
@@ -21,6 +24,7 @@ We'll talk about how you can improve your product and engineering relationships,
 After this session:
 
 * You'll understand how to spot some of the anti-patterns around product and engineering relationships,
+* You'll know how to design your organisation to achieve better results,
 * You'll know when to take different collaborative stances depending on the outcomes required,
 * You'll feel more confident in shifting your partnerships towards more productive patterns to maximise your chances of success.
 
