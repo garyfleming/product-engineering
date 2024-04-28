@@ -8,11 +8,20 @@
 
 * engineering have to help product understand the cost of each option to build each feature - cost to build, maintain, cost to complexity that will affect other features (this is the painful one)
 
+* Aligned posture on dates
+
+* Power over, power with, and to - Mary Parker Follett
+
+* Anti-pattern: only product speaks to customers
+* anti-pattern: only engineering makes stack decisions
+  * With understanding of cost and scaling trade-offs, this can be a product decision
+
 * roadmaps and goals as framing
 
 * Everyone has opinions. Data wins. Benefits everyone. Use it to pick features, enhance features, support features, remove features.
 
 * Melissa Perri interview w/ Kent Beck: https://produxlabs.com/product-thinking-blog/episode-38-kent-beck
+  * "when you have somebody with a capability, talk to somebody with a need, and that conversation creates a value. And, um, so in the extreme programming model, a product manager is more like a cocktail party host, making sure that the right introductions are made, making sure that the right conversations happen, that if somebody needs to join a conversation that happens as opposed to being, uh, uh, kind of, uh, a chess player and moving all the pieces around and figuring out where everything's gonna go perfectly."
 
 * shared bias to action. Shipping beats almost everything (caveats around delighting users). If one partner has a different stance (build the whole thing), then it’ll be bad times
 
@@ -55,9 +64,18 @@
   * metrics
   * 
 
+* The product is not the code
+  * 
 
 * TL;DR
   * Build the relationship and build empathy
   * Understand where each partner wants to be
   * Find out to get there
   * Understand the company context and how it changes - figure out where to act
+
+* Metrics - what ones do you agree on?
+  * KPIs for internal product: https://www.pendo.io/pendo-blog/5-kpis-for-internal-product-managers-to-track/
+    * App adoption: Monthly active users (MAU)
+    * Support deflection: measure tickets before tool, then after. Non user support requests, vs user support requests
+    * Net Promoter Score (I'm down on this)
+    
