@@ -63,7 +63,7 @@
   * roadmap
   * dates (and fungibility)
   * metrics
-  * 
+  * decision making/ownership
 
 * The product is not the code
   * 
