@@ -37,6 +37,7 @@
   * M & CM 
   * N & L
   * L & T
+  * TH & TM - dates
 
 * part of effectiveness in larger orgs is networking. Making sure that you’re linking up people who need to know each other including your product partners.
 
@@ -60,7 +61,7 @@
   * Tech debt
   * prioritisation
   * roadmap
-  * dates
+  * dates (and fungibility)
   * metrics
   * 
 
@@ -70,7 +71,7 @@
 * TL;DR
   * Build the relationship and build empathy
   * Understand where each partner wants to be
-  * Find out to get there
+  * Find out how to get there
   * Understand the company context and how it changes - figure out where to act
 
 * Metrics - what ones do you agree on?

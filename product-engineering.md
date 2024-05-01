@@ -50,6 +50,45 @@ theme: Titillium, 1
     * As we go through, I'm going to give you examples of failures, their causes, the results, and some ideas on how to appraoch things differently. 
     * But I remind you that you can mostly tune out if you rememember to "Have more real conversations"
 
+^ The purpose of the examples is to explain the common anti-patterns and problems, the misalignments
+^ We might intersperse the answers or not
+^ Come up with fun names
+^ Not convinced this is going to align to other stuff come back to it later
+
+* Example: Nathan and Linda
+    * Nathan 
+        * engineering lead for large platform that supports other applications
+        * Quiet, calm, understated
+        * Focus on operational availability - making sure things keep running in a boring way. Boring is good.
+        * Measures success based on number of tickets closed. The more tickets closed, the happier.
+    * Linda
+        * 
+
+
+^ ------------------ Come back to the above later
+
+* Multi-dimensional
+    * Can be misaligned in multiple ways at the same time, which can be challenging
+    * Positions
+        * Where each person sits on a particular issue
+    * Posture
+        * Where the product fits in the world
+            * Internal vs External
+            * Small company vs Enterprise
+    * Performance
+
+
+
+
+
+
+
+
+
+
+
+
+^ Less convinced by structure below
 * What I'm going to cover 
     * Table of contents of stuff below this point
 * Anti patterns
