@@ -50,6 +50,12 @@ theme: Titillium, 1
     * As we go through, I'm going to give you examples of failures, their causes, the results, and some ideas on how to appraoch things differently. 
     * But I remind you that you can mostly tune out if you rememember to "Have more real conversations"
 
+* Context
+    * Definitely on the engineering side...
+    * Was an agile coach for years
+    * I am not now and never have been a product owner
+        * But I have trained/coached POs in  a past life.
+
 ^ The purpose of the examples is to explain the common anti-patterns and problems, the misalignments
 ^ We might intersperse the answers or not
 ^ Come up with fun names
@@ -64,6 +70,13 @@ theme: Titillium, 1
     * Linda
         * 
 
+^ Less convinced by structure below
+<!-- * What I'm going to cover 
+    * Table of contents of stuff below this point
+* Anti patterns
+* Dispositional
+* Patterns -->
+* 
 
 ^ ------------------ Come back to the above later
 
@@ -81,17 +94,16 @@ theme: Titillium, 1
 
 
 
+# What Good (might) look like
+
+Dispositional. No one answer. Things below are broadly applicable (or called out as being specific)
+
+* Product strategy
+    * Strategy comes from what you want to solve 
+    * Not derived from a vision statement - a vision statement distills the strategy after the fact - an elevator pitch that hides the detail
+    * Start with big questions that you want to answer that either illuminate or directly answer a users needs  https://twitter.com/shreyas/status/1759293490276761829
 
 
 
 
 
-
-
-^ Less convinced by structure below
-* What I'm going to cover 
-    * Table of contents of stuff below this point
-* Anti patterns
-* Dispositional
-* Patterns
-* 
