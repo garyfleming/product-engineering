@@ -12,6 +12,7 @@
   * N & L - Very different approaches to work. No attempt to work better together. Made worse by one working for the other. 
   * L & T - 
   * TH & TM - dates
+  * JC & one of the leads
 
 
 * Quadrant diagram - Can we frame the majority of the talk around this? Kind of product (internal vs external) against kind of company (enterprise vs startup)
