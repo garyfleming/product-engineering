@@ -43,14 +43,14 @@ n.b. Many of these items fit in multiple categories. Consider tagging each thing
 * Product reporting to engineering is an antipattern because it...
 
 
-* engineers usually focus on a strategy to save the system they’re working on. Not the broader product, but specifically the system they have. Neither would be right. Must evolve the product and system to meet needs and derive value.
-* similarly product owners will over focus on the product not the needs.
+X * engineers usually focus on a strategy to save the system they’re working on. Not the broader product, but specifically the system they have. Neither would be right. Must evolve the product and system to meet needs and derive value.
+X * similarly product owners will over focus on the product not the needs.
 
 * how to deal with tech debt - product owners who don't know how it affects delivery are doomed to fail and develop a worsening relationship. Engineers who focus on it at the cost of delivery will fail too.
   * Strategies like "x% of time for tech debt" are usually naive - they lack context, and are usually the first thing cut.
 
 
-* what’s the best thing we can do for our customer. Shift emphasis between best thing, we, can do. i.e. "what's the *best thing* we can do ...", "what's the best thing *we* can do..." "what's the best thing we *can do*..."
+X * what’s the best thing we can do for our customer. Shift emphasis between best thing, we, can do. i.e. "what's the *best thing* we can do ...", "what's the best thing *we* can do..." "what's the best thing we *can do*..."
 
 * think about product antipattenes (treating like a project) and engineering antipatterns (feature churn), and how they impact the other role
 
