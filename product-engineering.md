@@ -1,7 +1,5 @@
 theme: Titillium, 1
 
-
-
 # Perfect Patterns For Product Partnerships And Engineering Excellence
 
 @garyfleming[**@mastodon.social**]
@@ -251,6 +249,91 @@ It's important to build a culture of respect and figure out communication patter
 ^ Have a conversation where you ask this. Try placing the emphasis in many places.
 ^ TODO might be overegging it
 
+---
+
+# Antipattern: Unclear Decision Making/Ownership
+
+^ A related problem comes when it comes to making decisions.
+It's very common to have more work to do than you could possibly manage, and not have agreement on who gets to pick.
+^ TODO more here
+
+---
+
+# Possibility: Align and Share
+
+* Use Data To Align
+* (Mostly) Share Decisions
+
+^ Everyone has opinions. Data wins. Benefits everyone. Use it to pick features, enhance features, support features, remove features. Remove some of the bias from your conversations. About a year ago, my PM had wanted to create a specific product for our portfolio (Python). We had already agreed a tacit framework for making decisions. While it was an interesting (and somewhat valuable) product, the demand signals we look for weren't there. We didn't know that anyone wanted it but could clearly see other things people did want. Agreed to park and monitor. As the year went on ... TODO
+
+
+
+--- 
+
+# Align: Roadmaps As Conversations
+
+^ * thinking about now next later and even much later (years). Ensure you’re aligned on what those mean. That they’re not promises to do stuff, they’re possibilities. They’re not backlogs. Ensure you’re laying the engineering and product groundwork.
+
+^ * roadmaps and goals as framing
+
+---
+
+# Align: Dates (and Fungibility)
+
+^ Aligned posture on dates
+
+---
+
+# Align: Metrics
+
+^ TODO * Good aligning principle for internal systems - would users use your system if they didn’t have to?
+* * Feature delivery is not a metric to track. Features enable movement of meaningful metrics.
+* what are the big questions you want to answer? Are they the same? Where do they differ?
+* Metrics - what ones do you agree on?
+  * KPIs for internal product: https://www.pendo.io/pendo-blog/5-kpis-for-internal-product-managers-to-track/
+    * App adoption: Monthly active users (MAU)
+    * Support deflection: measure tickets before tool, then after. Non user support requests, vs user support requests
+    * Net Promoter Score (I'm down on this)
+
+
+---
+
+# Antipattern: Only Product Speaks to Customers
+
+^ TODO
+^ Anti agile TODO Engineering must understand need
+^ part of effectiveness in larger orgs is networking. Making sure that you’re linking up people who need to know each other including your product partners.
+
+---
+
+# Antipattern: Only Engineering Makes Technical Decisions
+
+^ TODO With understanding of cost and scaling trade-offs, this can be a product decision
+
+
+---
+
+# Antipattern: Tech Debt Management
+
+^ TODO
+* how to deal with tech debt - product owners who don't know how it affects delivery are doomed to fail and develop a worsening relationship. Engineers who focus on it at the cost of delivery will fail too.
+  * Strategies like "x% of time for tech debt" are usually naive - they lack context, and are usually the first thing cut.
+
+---
+
+# Possibility: Treat As First Class Feature
+
+^ TODO first class feature in the sense that invesment ends up with faster delivery. Not investing costs significantly
+
+---
+
+# Summary
+
+* Align on key decision tools
+* Share Power and Decisions Where You Can
+* Have More Real **Conversations**
+
+^ TODO
 
 ---
 
