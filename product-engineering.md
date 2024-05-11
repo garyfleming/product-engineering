@@ -5,8 +5,18 @@ theme: Titillium, 1
 @garyfleming[**@mastodon.social**]
 
 
-^   * Jump to the end - before I explain what the talk is about, the answer to the problems I'm setting out and most other unrelated problems is "Have more real conversations"
-    * Talk more, be honest more, listen more, have them be actual conversations
+^   * Jump to the end - before I explain what the talk is about, I'm going to start, unusually, with the summary
+
+---
+
+# Summary
+
+* Align on key decision tools
+* Share Power and Decisions Where You Can
+* Have More Real **Conversations**
+
+^ TODO Make sure this is the same as the one at the end
+^    * Talk more, be honest more, listen more, have them be actual conversations
     * You're now relieved of the burden of listening to the talk
     * If you have to talk notes to take back to your company, that's you sorted. You're welcome.
 
@@ -333,7 +343,7 @@ It's very common to have more work to do than you could possibly manage, and not
 * Share Power and Decisions Where You Can
 * Have More Real **Conversations**
 
-^ TODO
+^ TODO Make sure this is the same as the one at the start
 
 ---
 
