@@ -30,7 +30,7 @@ theme: Titillium, 1
   * This talk is called...
     * Yes, I did call it that largely for the alliterative effect.
     * No, it's not big or clever
-    * Yes, I've already renamed it for future conferences
+    * Yes, I do regret it and I've already renamed it for future conferences
 
 ---
 
@@ -64,7 +64,7 @@ If something I say doesn't apply to you, don't apply it.
 ^  * This talk is about product managers and engineering leads, and their failing relationships
   * This is about when those people try to work together and it goes wrong; or when they don't try to work together at all and it still goes horribly wrong. The horrible disastrous mistakes people make that can be overcome, and how you start doing that.
   * While the framing of the talk is on those two roles, I think it's also useful to adjacent roles - particularly agile coaches and scrum masters. If you can start to identify the problems I'll mention, you can start to work with the affected parties to fix things.
-  * As we go through, I'm going to give you examples of failures, their causes, the results, and some ideas on how to appraoch things differently. 
+  * As we go through, I'm going to give you examples of failures, their causes, the results, and some ideas on how to approach things differently. 
   * But I remind you that you can mostly tune out if you rememember to "Have more real conversations"
   
 ---
@@ -79,7 +79,6 @@ If something I say doesn't apply to you, don't apply it.
 
 # Context
 
-
 ^   * Definitely on the engineering side...
   * Was an agile coach for years
   * I am not now and never have been a product owner
@@ -92,9 +91,9 @@ If something I say doesn't apply to you, don't apply it.
 # Examples
 
 ^ The purpose of the examples is to explain the common anti-patterns and problems, the misalignments
-^ We might intersperse the answers or not
+<!-- ^ We might intersperse the answers or not
 ^ Come up with fun names
-^ Not convinced this is going to align to other stuff come back to it later
+^ Not convinced this is going to align to other stuff come back to it later -->
 
 ---
 
@@ -103,14 +102,18 @@ If something I say doesn't apply to you, don't apply it.
 * Nathan: engineering lead for large platform that supports other applications
 * Linda: newly appointed Product Manager
 
-
 ^  * Nathan 
     * engineering lead for large platform that supports other applications
     * Quiet, calm, understated
     * Focus on operational availability - making sure things keep running in a boring way. Boring is good.
     * Measures success based on number of tickets closed. The more tickets closed, the happier.
     * Some of the big changes that are needed aren't getting done. By only focussing on the symptoms and fighting those, they rarely look for the root cause and fix there to reduce tickets.
-  * Linda
+
+---
+
+# Example: Nathan and Linda
+
+^  * Linda
     * Has worked in multiple roles and has now settled into Product management
     * Opinionated, loud, one of life's complainers
     * Can see the issues upstream and knows they need fixed - knows that tickets are a symptom
@@ -119,7 +122,7 @@ If something I say doesn't apply to you, don't apply it.
   
 ---
 
-# Example: Matt and Ken Michaelson
+# Example: Matt and Ken 
 
 * Matt: Experienced Product manager from another area
 * Ken: Engineering expert in his domain
@@ -127,13 +130,18 @@ If something I say doesn't apply to you, don't apply it.
 ^  * Ken
     * Engineering lead for tools for develophers
     * Expert in his domain.
-    * Has historically made excellent decisions
+    * Has historically made excellent engineering decisions
     * Been given a PM - not used to working with them
     * Has no interest in ceding ground
-  * Matt
+
+---
+
+# Example: Matt and Ken 
+
+^ * Matt
     * Experienced PO moved in from another area (Cloud?) because dev tooling need to start focussing more tools on Cloud
     * Well connected and knowledgeable
-    * Abrasive at times, but no right
+    * Abrasive at times, but usually right
   * No direct power dynamic but their mutual boss clearly favoured engineering - and Matt had significant seniority
   * Ken said what he was going to do, and took no feedback. Matt's only role was then to produce reports and OKRs to accomodate and justify decisions made - not really doing any product management.
 
@@ -146,10 +154,15 @@ If something I say doesn't apply to you, don't apply it.
 * Steve: new engineering lead
 
 ^   * Jessica
-    * Product manager trying to make a name for herself
+    * Former projecta manager trying to make a name for herself
     * Put in charge of wayward external facing project - an integration platform for customers
     * Project is delivering slowly so puts in place a timeline of when new features will be delivered - tells stakeholders
-  * Steve
+
+---
+
+# Example: Jessica and Steve
+
+^ * Steve
     * New engineering lead - old one left
     * Reports directly to Jessica (as does everyone in engineering)
     * Talks about his concerns with the dates but can't say how long anything will take - Technical debt makes delivery unpredictable
@@ -168,22 +181,43 @@ If something I say doesn't apply to you, don't apply it.
 
 # Multi-dimensional
 
-* Positions
+* Positions 
 * Posture
-* Performance
+* Power
 
-^    * ... You'll notice that each example was complicated. Can be misaligned in multiple ways at the same time, which can be challenging. That means that none of my simplification is going to do justice to reality.
-    * Think about: ^ TODO not convinced this makes sense any more
-    * Positions
-        * Where each person sits on a particular issue
-        * Where the person sits in the org chat relative to the other 
-    * Posture
-        * Where the product fits in the world
-            * Internal vs External
-            * Small company vs Enterprise
-    * Performance
-      * How each person is performing relative to the overall need and each other
+^ You'll notice that each example was complicated. Can be misaligned in multiple ways at the same time, which can be challenging. That means that none of my simplification is going to do justice to reality
+^ So think about these groupings 
+^ Yes, I picked the names because they're alliterative...
 
+---
+
+# Multi-dimensional: Positions
+
+* Where people sit on each issue
+* Broad
+* Don't need perfect alignment
+
+---
+
+# Multi-dimensional: Posture
+
+* Interal vs External
+* Small company vs Enterprise
+* Startup vs Established
+
+^ The posture of the company/product matter. How you approach problems will vary, appetite for risk, how you should operate etc. Pay attention and change approach.
+
+---
+
+# Multi-dimensional: Power
+
+* Org Chart
+* Network
+* Seniority
+* Explicit || Tacit
+
+^ I'm going to go into this in more detail very soon, but the power dynamics (explicit and tacit) are probably the biggest driver of harmony and disharmony.
+^ Consider the many dimensions
 
 ---
 
@@ -191,7 +225,8 @@ If something I say doesn't apply to you, don't apply it.
 
 ^ I'm going to get into this one first because it's the biggest, and maybe the most controversial.
 
-^ I'm firmly of the belief that the greatest benefits come from a product and engineering relationship built of equals. When product and engineering report to each other it often leads to dysfunction 
+^ I'm firmly of the belief that the greatest benefits come from a product and engineering relationship built of equals.
+ When product and engineering report to each other it often leads to dysfunction 
 
 ^ Little is going to save two people who are fundamentally at odds with each other and are unable to compromise - see Nathan and Linda above - but layering one under the other just leads to resentment and even less ability to work together.
 
@@ -199,7 +234,13 @@ If something I say doesn't apply to you, don't apply it.
 
 # Possibility: Same Level
 
-^ Have the product people and engineers who need to work together at the same level. Give them every opportunity to work better by minimising the power imbalances you can. Doesn't matter if one is a higher grade
+^ Have the product people and engineers who need to work together at the same level. Give them every opportunity to work better by minimising the power imbalances you can. Doesn't matter if one is a higher grade etc. Their working relationship should be as equals by default
+
+---
+
+# Nothing is true...
+
+^ Now I know that there will be engineering leads in this room with product owners aligned into them, and vice versa.  If this makes sense for you, then great - keep doing it. But at least be mindful of the power dynamics and what your current structure is implicitly preventing
 
 ---
 
@@ -212,6 +253,10 @@ If something I say doesn't apply to you, don't apply it.
 ^ Grades: even if they are different grades in the corporate structure, it's unlikely to be by many multiple levels. Issues 
 
 ^ Posture: depending on your context, you might want to shift things around a little. If you're building internal products with an engineering focus, it's likely that your engineers will have good opinions here. If you're building external products where gaining market fit is key, maybe product's voice needs to be raised a little. 
+
+---
+
+# Constraints
 
 ^ Imbalance in teams: It's also worth noting that having engineers and product at the same level doesn't by itself create balance. Product owners typically have much smaller teams (0-2 directs) than engineering leads (5-7). That is a power dynamic - if a developer in a team is caught in a fight between their boss (EL) or the PM, they might well go with the person writing their end of year.
 It's important to build a culture of respect and figure out communication patterns to work through this.
