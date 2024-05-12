@@ -1,4 +1,4 @@
-theme: Titillium, 1
+theme: Space, 3
 
 # Perfect Patterns For Product Partnerships And Engineering Excellence
 
@@ -113,6 +113,9 @@ If something I say doesn't apply to you, don't apply it.
 
 # Example: Nathan and Linda
 
+* Nathan: engineering lead for large platform that supports other applications
+* Linda: newly appointed Product Manager
+
 ^  * Linda
     * Has worked in multiple roles and has now settled into Product management
     * Opinionated, loud, one of life's complainers
@@ -138,6 +141,9 @@ If something I say doesn't apply to you, don't apply it.
 
 # Example: Matt and Ken 
 
+* Matt: Experienced Product manager from another area
+* Ken: Engineering expert in his domain
+
 ^ * Matt
     * Experienced PO moved in from another area (Cloud?) because dev tooling need to start focussing more tools on Cloud
     * Well connected and knowledgeable
@@ -161,6 +167,9 @@ If something I say doesn't apply to you, don't apply it.
 ---
 
 # Example: Jessica and Steve
+
+* Jessica: product manager put in charge of wayward project
+* Steve: new engineering lead
 
 ^ * Steve
     * New engineering lead - old one left
@@ -186,7 +195,7 @@ If something I say doesn't apply to you, don't apply it.
 * Power
 
 ^ You'll notice that each example was complicated. Can be misaligned in multiple ways at the same time, which can be challenging. That means that none of my simplification is going to do justice to reality
-^ So think about these groupings 
+^ I've tried to group misalignments under three categories
 ^ Yes, I picked the names because they're alliterative...
 
 ---
@@ -217,7 +226,8 @@ If something I say doesn't apply to you, don't apply it.
 * Explicit || Tacit
 
 ^ I'm going to go into this in more detail very soon, but the power dynamics (explicit and tacit) are probably the biggest driver of harmony and disharmony.
-^ Consider the many dimensions
+^ Consider the many ways that upsetting these balances causes issues
+^ TODO expand
 
 ---
 
@@ -240,6 +250,8 @@ If something I say doesn't apply to you, don't apply it.
 
 # Nothing is true...
 
+### What is prevented?
+
 ^ Now I know that there will be engineering leads in this room with product owners aligned into them, and vice versa.  If this makes sense for you, then great - keep doing it. But at least be mindful of the power dynamics and what your current structure is implicitly preventing
 
 ---
@@ -250,16 +262,18 @@ If something I say doesn't apply to you, don't apply it.
 * Posture
 * Imbalance
 
-^ Grades: even if they are different grades in the corporate structure, it's unlikely to be by many multiple levels. Issues 
+^ Grades: even if they are different grades in the corporate structure, it's unlikely to be by many multiple levels. Issues around grade difference correct quickly through exposure to new ways to talking
+^ TODO brief foray into timespans of discretion as they relate to comms. The way you think and communicate is influenced heavily by the timespans in which you act.
 
-^ Posture: depending on your context, you might want to shift things around a little. If you're building internal products with an engineering focus, it's likely that your engineers will have good opinions here. If you're building external products where gaining market fit is key, maybe product's voice needs to be raised a little. 
+^ Posture: depending on your context, you might want to shift things around a little. If you're building internal products with an engineering focus, it's likely that your engineers will have good opinions here. If you're building external products where gaining market fit is key, maybe product's voice needs to be raised a little.
+^ TODO visualise this 
 
 ---
 
-# Constraints
+# Constraints in Teams
 
-^ Imbalance in teams: It's also worth noting that having engineers and product at the same level doesn't by itself create balance. Product owners typically have much smaller teams (0-2 directs) than engineering leads (5-7). That is a power dynamic - if a developer in a team is caught in a fight between their boss (EL) or the PM, they might well go with the person writing their end of year.
-It's important to build a culture of respect and figure out communication patterns to work through this.
+^ Imbalance in teams: It's also worth noting that having EL and PM at the same level doesn't by itself create balance. Product owners typically have much smaller teams (0-2 directs) than engineering leads (5-7). That is a power dynamic - if a developer in a team is caught in a fight between their boss (EL) or the PM, they might well go with the person writing their end of year.
+It's important to build a culture of respect and figure out communication patterns to work through this. Can be as simple as agreeing how we build our roadmap and communicate that to the team, and how the team communicate back
 
 
 ---
@@ -271,7 +285,8 @@ It's important to build a culture of respect and figure out communication patter
 
 ^ Without further understanding of modern product delivery, engineers will, IME, default to saving the software system they currently have. Not the broader product, but specifically the code base they have. Because they're emotionally invested.
 ^ Similarly product owners who don't do real product delivery will focus on the overal solution they have - again, this is emotional investment. Very normal.
-^ They can do this independently of each other
+^ They can do this independently of each other or together.
+^ WHen one side has a broader vision, it can create instant turmoil - if handled indelicately, it can feel like the work that's been done isn't valued
 ^ TODO more needed?
 
 ---
@@ -290,6 +305,7 @@ It's important to build a culture of respect and figure out communication patter
 > "If something comes along that does this job better, I'll be delighted and help remove our system."
 
 ^ And I mean it. Being dispassionate about software and products is important. 
+Confusing the tools you've built with the mission is a deadly mistake.
 
 ---
 
@@ -301,8 +317,25 @@ It's important to build a culture of respect and figure out communication patter
 
 > What’s the best thing we can do for our customer?
 
-^ Have a conversation where you ask this. Try placing the emphasis in many places.
-^ TODO might be overegging it
+^ Have a conversation where you ask this. Try placing the emphasis in many places. Keep doing this to ensure alignment.
+
+---
+
+# Antipattern: Different Missions
+
+^ Alignment will be a recurring theme as we go on (I'll be jumping around a little bit as the antipatterns intersect), but most of the rest of what I'll say only really makes sense if you're on the same mission.
+Too often people think they're on the same mission and they're not (nathan/linda) - they might even want vaguely the same thing but until they can agree on what to do there are going to be unnecessary tensions in the system. That doesn't mean that you need absolute agreement and harmony - dissent is useful at times - but understand it's role in slowing things down.
+
+---
+
+# Possibility: Align Up Front
+
+* What will be different?
+* What will be the same?
+
+^ Align up front on what your mission is and how you measure it. Accept it's fuzzy. You don't need to agree perfectly, you need to be pointing in the same vague direction and somewhat near each other.
+^ I'll come back to alignment soon
+
 
 ---
 
@@ -310,16 +343,40 @@ It's important to build a culture of respect and figure out communication patter
 
 ^ A related problem comes when it comes to making decisions.
 It's very common to have more work to do than you could possibly manage, and not have agreement on who gets to pick.
+^ Part of what was affecting Jessica and Steve - way too much work and resentment on who picked
+^ This again comes back to Power. Who has it, who uses it.
 ^ TODO more here
 
 ---
 
 # Possibility: Align and Share
 
-* Use Data To Align
+* Use Data To **Align**
 * (Mostly) Share Decisions
 
-^ Everyone has opinions. Data wins. Benefits everyone. Use it to pick features, enhance features, support features, remove features. Remove some of the bias from your conversations. About a year ago, my PM had wanted to create a specific product for our portfolio (Python). We had already agreed a tacit framework for making decisions. While it was an interesting (and somewhat valuable) product, the demand signals we look for weren't there. We didn't know that anyone wanted it but could clearly see other things people did want. Agreed to park and monitor. As the year went on ... TODO
+^ I'll come back to alignment soon, but I want to put a special emphasis here. Using data and sharing decisons make sense, but will be less useful if you're not aligend to the same mission.
+
+---
+
+# Use Data
+
+* Hard metrics
+* Signals
+
+^ Everyone has opinions. Data wins. Benefits everyone. Use it to pick features, enhance features, support features, remove features. Remove some of the bias from your conversations.
+^ About a year ago, my PM had wanted to create a specific product for our portfolio (Python). We had already agreed a tacit framework for making decisions. While it was an interesting (and somewhat valuable) product, the demand signals we look for weren't there. We didn't know that anyone wanted it but could clearly see other things people did want. Agreed to park and monitor. As the year went on we noticed more support room chat, more soft signals. It wasn't an automatic threshold, it was a conversation. We decided to invest.
+
+
+---
+
+## Share Decisions
+
+* Value proposition
+* Engineering cost
+* Opportunity cost
+
+^ It was also, notably, a shared decision. We had some real conversations around the value proposition (not quite ROI), about the engineering cost, the opportunity cost (what would we not build), the
+^ The outcome of the decision affects *everyone* so being able to have conversations helps
 
 
 
