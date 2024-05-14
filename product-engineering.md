@@ -354,7 +354,7 @@ It's very common to have more work to do than you could possibly manage, and not
 * Use Data To **Align**
 * (Mostly) Share Decisions
 
-^ I'll come back to alignment soon, but I want to put a special emphasis here. Using data and sharing decisons make sense, but will be less useful if you're not aligend to the same mission.
+^ Everyone has opinions. Data wins. Benefits everyone. Use it to pick features, enhance features, support features, remove features. Remove some of the bias from your conversations.
 
 ---
 
@@ -375,10 +375,29 @@ It's very common to have more work to do than you could possibly manage, and not
 * Engineering cost
 * Opportunity cost
 
-^ It was also, notably, a shared decision. We had some real conversations around the value proposition (not quite ROI), about the engineering cost, the opportunity cost (what would we not build), the
+^ It was also, notably, a shared decision. We had some real conversations around the value proposition (not quite ROI), about the engineering cost (and debt), the opportunity cost (what would we not build), the
 ^ The outcome of the decision affects *everyone* so being able to have conversations helps
 
 
+---
+
+# Antipattern: Tech Debt Management
+
+* "10% of time for tech debt"
+* "We need to focus on features"
+
+^ I mentioned debt in the last slide so let's talk about something with more of an engineering tilt
+* how to deal with tech debt - product owners who don't know how it affects delivery are doomed to fail and develop a worsening relationship. Engineers who focus on it at the cost of delivery will fail too.
+  * Strategies like "x% of time for tech debt" are usually naive - they lack context, and are usually the first thing cut.
+
+---
+
+# Possibility: Treat As First Class Feature
+
+* Education
+* Cost of Delay
+
+^  first class feature in the sense that invesment ends up with faster delivery. Not investing costs significantly. There's a compounding and increasing cost of delay to tech debt that most engineers don't understand, let alone non-engineers. So focus on education: making sure everyone understands the costs, and how they rapidly accelerate
 
 --- 
 
@@ -408,34 +427,9 @@ It's very common to have more work to do than you could possibly manage, and not
     * Net Promoter Score (I'm down on this)
 
 
----
-
-# Antipattern: Only Product Speaks to Customers
-
-^ TODO
-^ Anti agile TODO Engineering must understand need
-^ part of effectiveness in larger orgs is networking. Making sure that you’re linking up people who need to know each other including your product partners.
-
----
-
-# Antipattern: Only Engineering Makes Technical Decisions
-
-^ TODO With understanding of cost and scaling trade-offs, this can be a product decision
 
 
----
 
-# Antipattern: Tech Debt Management
-
-^ TODO
-* how to deal with tech debt - product owners who don't know how it affects delivery are doomed to fail and develop a worsening relationship. Engineers who focus on it at the cost of delivery will fail too.
-  * Strategies like "x% of time for tech debt" are usually naive - they lack context, and are usually the first thing cut.
-
----
-
-# Possibility: Treat As First Class Feature
-
-^ TODO first class feature in the sense that invesment ends up with faster delivery. Not investing costs significantly
 
 ---
 
@@ -461,6 +455,19 @@ It's very common to have more work to do than you could possibly manage, and not
 
 ----
 
+---
+
+# Antipattern: Only Product Speaks to Customers
+
+^ TODO
+^ Anti agile TODO Engineering must understand need
+^ part of effectiveness in larger orgs is networking. Making sure that you’re linking up people who need to know each other including your product partners.
+
+---
+
+# Antipattern: Only Engineering Makes Technical Decisions
+
+^ TODO With understanding of cost and scaling trade-offs, this can be a product decision
 
 ---
 
