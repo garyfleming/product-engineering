@@ -52,10 +52,17 @@ The examples are anonymised (and not necessarily from my current context).
 
 # Nothing is true, everything is permitted
 
-If something I say doesn't apply to you, don't apply it.
 
 ^ Anyone recognise this quote?
-^ Could be seen as cynical - but really it means that we're in control of our actions and are responsible for our outcomes. If anything I say doesn't apply to you, don't apply it.
+^ Could be seen as cynical - but really it means that we're in control of our actions and are responsible for our outcomes. 
+
+---
+
+# Nothing is true, everything is permitted
+
+If something I say doesn't apply to you, don't apply it.
+
+^ If anything I say doesn't apply to you, don't apply it.
 
 ---
 
@@ -69,31 +76,31 @@ If something I say doesn't apply to you, don't apply it.
   
 ---
 
-# Roles
+# Roles and Context
+
+^   * Definitely on the engineering side...
+  * Was an agile coach for for an extended dark period of my life
+  * I am not now and never have been a product owner
+    * But I have trained/coached POs in  a past life.
 
 ^  * Going to use product owner/manager/CPO interchangeably
   * Going to use engineering lead/team lead/developer interchangeably.
+  * Scrum master/agile coach/agile lead
   * I'll usually be referring to people who are at broadly the same level.
 
 ---
 
-# Context
+# Roles and Context
 
-^   * Definitely on the engineering side...
-  * Was an agile coach for years
-  * I am not now and never have been a product owner
-    * But I have trained/coached POs in  a past life.
-  * If you're product/engineering, look for these anti-patterns and how they both benefit and hinder you. Just because they can have an immediate benefit doesn't make them a good thing - can harm relationship
+^     * If you're product/engineering, look for these anti-patterns and how they both benefit and hinder you. Just because they can have an immediate benefit doesn't make them a good thing - can harm relationship
   * If you're agile, look at how you can illuminate these problems for those invovled
 
 ---
 
 # Examples
 
-^ The purpose of the examples is to explain the common anti-patterns and problems, the misalignments
-<!-- ^ We might intersperse the answers or not
-^ Come up with fun names
-^ Not convinced this is going to align to other stuff come back to it later -->
+^ Going to go through some examples/ The purpose of the examples is to explain the common anti-patterns and problems, the misalignments, to illustrate the kinds of problems we're going to attempt to solve
+
 
 ---
 
@@ -104,10 +111,10 @@ If something I say doesn't apply to you, don't apply it.
 
 ^  * Nathan 
     * engineering lead for large platform that supports other applications
-    * Quiet, calm, understated
+    * Quiet, calm, understated, professional
     * Focus on operational availability - making sure things keep running in a boring way. Boring is good.
     * Measures success based on number of tickets closed. The more tickets closed, the happier.
-    * Some of the big changes that are needed aren't getting done. By only focussing on the symptoms and fighting those, they rarely look for the root cause and fix there to reduce tickets.
+    * Some of the big changes that are needed aren't getting done. By only focussing on the symptoms and fighting those, they rarely look for the root cause. Tickets keep coming.
 
 ---
 
@@ -118,9 +125,9 @@ If something I say doesn't apply to you, don't apply it.
 
 ^  * Linda
     * Has worked in multiple roles and has now settled into Product management
-    * Opinionated, loud, one of life's complainers
+    * Opinionated, loud, one of life's complainers, but she's not stupid and she's not necessarily wrong.
     * Can see the issues upstream and knows they need fixed - knows that tickets are a symptom
-    * Can't get traction because started with everything that is wrong. Didn't build relationships and trust. Just complained (about stuff that really was broken)
+    * Can't get traction with Nathan because started with everything that is wrong. Didn't build relationships and trust. Just complained (about stuff that really was broken)
     * Aligned *under* Nathan, so is being loudly dismissive of her manager's approach.
   
 ---
@@ -148,8 +155,8 @@ If something I say doesn't apply to you, don't apply it.
     * Experienced PO moved in from another area (Cloud?) because dev tooling need to start focussing more tools on Cloud
     * Well connected and knowledgeable
     * Abrasive at times, but usually right
-  * No direct power dynamic but their mutual boss clearly favoured engineering - and Matt had significant seniority
-  * Ken said what he was going to do, and took no feedback. Matt's only role was then to produce reports and OKRs to accomodate and justify decisions made - not really doing any product management.
+  * No direct power dynamic but their mutual boss clearly favoured engineering - and Ken had significant seniority
+  * Ken said what he was going to do, and took no feedback. Matt's only role was then to produce reports and OKRs to accomodate and justify decisions made, marketing - not really doing any product management. 
 
 ---
 
@@ -160,7 +167,7 @@ If something I say doesn't apply to you, don't apply it.
 * Steve: new engineering lead
 
 ^   * Jessica
-    * Former projecta manager trying to make a name for herself
+    * Former project manager trying to make a name for herself
     * Put in charge of wayward external facing project - an integration platform for customers
     * Project is delivering slowly so puts in place a timeline of when new features will be delivered - tells stakeholders
 
