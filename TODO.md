@@ -69,22 +69,12 @@ n.b. Many of these items fit in multiple categories. Consider tagging each thing
 
 "Can be as simple as agreeing how we build our roadmap and communicate that to the team, and how the team communicate back" -- Using this in constraints in teams section. Make sure these get answered
 
+---
 
-
-antipattern: different missions
-
-^ hard to make decisions when you have different missions
-
-possibility: have more real conversations
-
-^ Align up front on what your mission is and how you measure it. Accept it's fuzzy.
+real conversations - what are they
 
 
 ---
-
-antipattern: bureaucracy
-
-^ Most of what I've talkd about sounds like it could be misudnerstood as process so let me disavow you of that. I am not saying that as you align your roadmap, metrics, around data, decision making etc that you build a bureaucratic process. Quite the opposite. if anyone ever says "Well, that's not the process", or "you need to submit a change request for review", etc you've lost.
 
 Have real Conversations
 

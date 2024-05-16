@@ -53,8 +53,8 @@ The examples are anonymised (and not necessarily from my current context).
 # Nothing is true, everything is permitted
 
 
-^ Anyone recognise this quote?
-^ Could be seen as cynical - but really it means that we're in control of our actions and are responsible for our outcomes. 
+^ Anyone recognise this quote? Alamut by Vladimir Bartol
+^ Could be seen as cynical - but really it means that we're in control of our actions and are responsible for our outcomes. When we fail to act because of an unjust law telling us not to, we allow other's reality to constrain ours.
 
 ---
 
@@ -217,24 +217,40 @@ If something I say doesn't apply to you, don't apply it.
 
 # Multi-dimensional: Posture
 
-* Interal vs External
+* Internal vs External
 * Small company vs Enterprise
 * Startup vs Established
 
-^ The posture of the company/product matter. How you approach problems will vary, appetite for risk, how you should operate etc. Pay attention and change approach.
+^ The posture of the company/product matter. How you approach problems will vary, appetite for risk, how you should operate etc. Pay attention and change approach. Culture matters.
 
 ---
 
 # Multi-dimensional: Power
 
 * Org Chart
-* Network
+* Informal Network
 * Seniority
 * Explicit || Tacit
 
 ^ I'm going to go into this in more detail very soon, but the power dynamics (explicit and tacit) are probably the biggest driver of harmony and disharmony.
-^ Consider the many ways that upsetting these balances causes issues
-^ TODO expand
+^ Consider the many ways that upsetting these balances causes issues. Org chart is most obvious. Informal Network is easiest to work - as Dave Snowden mentoned in the keynote, informal networks bring trust where formal netwrosk don't.
+^ Seniority - grad speaking to a director; will likely listen. Director needs to be careful that options don't sound like orders. 
+^ Explicit/tacit - when power is used, need to be aware that it can be used explicitly or tacitly.
+
+---
+
+# Power - Mary Parker Follett
+
+* Power Over
+  * Traditional controlling
+  * Finite
+  * Coercive
+* Power with
+  * Collaborative
+  * Shared
+  * Beyond self-interest
+
+^ In talking about power, I need to mention Follett's work. Management consultant whose work was influential (Win-Win). She divided power into two categories... [describe above]
 
 ---
 
@@ -342,6 +358,7 @@ Too often people think they're on the same mission and they're not (nathan/linda
 
 ^ Align up front on what your mission is and how you measure it. Accept it's fuzzy. You don't need to agree perfectly, you need to be pointing in the same vague direction and somewhat near each other.
 ^ I'll come back to alignment soon
+TODO needs rewritten
 
 
 ---
@@ -350,7 +367,7 @@ Too often people think they're on the same mission and they're not (nathan/linda
 
 ^ A related problem comes when it comes to making decisions.
 It's very common to have more work to do than you could possibly manage, and not have agreement on who gets to pick.
-^ Part of what was affecting Jessica and Steve - way too much work and resentment on who picked
+^ Part of what was affecting Jessica and Steve - way too much work to dig the failing project out of a hole, and resentment on who picked.
 ^ This again comes back to Power. Who has it, who uses it.
 ^ TODO more here
 
@@ -383,8 +400,15 @@ It's very common to have more work to do than you could possibly manage, and not
 * Opportunity cost
 
 ^ It was also, notably, a shared decision. We had some real conversations around the value proposition (not quite ROI), about the engineering cost (and debt), the opportunity cost (what would we not build), the
-^ The outcome of the decision affects *everyone* so being able to have conversations helps
+^ The outcome of the decision affects *everyone* (product and engineering) so being able to have conversations helps
 
+---
+
+# Real Conversations
+
+## You know what they are
+
+^ I've used the phrase real conversations a few times. You know when you're actually listening to someone and hearing them. You know when they're doing the same. You know when they're just waiting their turn. This goes back to building Power With. If you're just waiting to deliver your point, you're likely attempting Power Over
 
 ---
 
@@ -393,7 +417,7 @@ It's very common to have more work to do than you could possibly manage, and not
 * "10% of time for tech debt"
 * "We need to focus on features"
 
-^ I mentioned debt in the last slide so let's talk about something with more of an engineering tilt
+^ I mentioned debt in the last section so let's talk about something with more of an engineering tilt
 * how to deal with tech debt - product owners who don't know how it affects delivery are doomed to fail and develop a worsening relationship. Engineers who focus on it at the cost of delivery will fail too.
   * Strategies like "x% of time for tech debt" are usually naive - they lack context, and are usually the first thing cut.
 
@@ -406,37 +430,58 @@ It's very common to have more work to do than you could possibly manage, and not
 
 ^  first class feature in the sense that invesment ends up with faster delivery. Not investing costs significantly. There's a compounding and increasing cost of delay to tech debt that most engineers don't understand, let alone non-engineers. So focus on education: making sure everyone understands the costs, and how they rapidly accelerate
 
+---
+
+# Alignment
+
+^ A lot of what I'm suggesting is being aligned in some way or another, usually by having real conversations. I'm going to get into a little more detail and talk about some of the facets of that alignment and how to achieve it.
+
+--- 
+
+# Align: Dates (and Fungibility)
+
+* Dates are emotional
+* Acceptable fuzziness
+* Not meeting them
+
+^ Aligned posture on dates is vital. If you don't agree on what the date means or hitting it means, you're likely going to be in conflict quite quickly. Dates are emotional. People feel upset, let down, betrayed when expectations aren't met. So if one person wants drop-dead dates (28th may) and the other sees that as a rough date, expct bad times. 
+^ Make sure you're agreed when you're not going to hit dates - when somethign has gone wrong. What is the playbook. Signal when it matters more.
+
 --- 
 
 # Align: Roadmaps As Conversations
 
-^ * thinking about now next later and even much later (years). Ensure you’re aligned on what those mean. That they’re not promises to do stuff, they’re possibilities. They’re not backlogs. Ensure you’re laying the engineering and product groundwork.
+![inline](images/now-next-later-tickets.jpg)
 
-^ * roadmaps and goals as framing
+^ Did a talk a few years ago...
+thinking about now next later and even much later (years). Ensure you’re aligned on what those mean. That they’re not promises to do stuff, they’re possibilities. They’re not backlogs. Ensure you’re laying the engineering and product groundwork.
 
----
-
-# Align: Dates (and Fungibility)
-
-^ Aligned posture on dates
 
 ---
 
 # Align: Metrics
 
-^ TODO * Good aligning principle for internal systems - would users use your system if they didn’t have to?
-* * Feature delivery is not a metric to track. Features enable movement of meaningful metrics.
-* what are the big questions you want to answer? Are they the same? Where do they differ?
-* Metrics - what ones do you agree on?
-  * KPIs for internal product: https://www.pendo.io/pendo-blog/5-kpis-for-internal-product-managers-to-track/
-    * App adoption: Monthly active users (MAU)
-    * Support deflection: measure tickets before tool, then after. Non user support requests, vs user support requests
-    * Net Promoter Score (I'm down on this)
+* What are the big questions you want to answer?
+* How will you measure success (and failure)?
+* When will you change them?
+
+^ Metrics can be a dividing issue, or an aligning one. By agreeing upfront (and then reviewing their relevance), you can avoid a lot of pain where one party of the other is making assumptions that the other doesn't know about. As always be careful about them becoming targets. Use them to guide your decisions etc
+^ Try to focus on value. Feature delivery is not value.
 
 
 
+---
+
+# Meta-antipattern: Bureaucracy
+
+^ Most of what I've talkd about sounds like it could be misudnerstood as process so let me disavow you of that. I am not saying that as you align your roadmap, metrics, around data, decision making etc that you build a bureaucratic process. Quite the opposite. if anyone ever says "Well, that's not the process", or "you need to submit a change request for review", etc you've lost.
 
 
+---
+
+# Have real Conversations
+
+^ Quite the opposite. I'm saying have conversations. Align the mission and values. Create lightweight touchpoints, and uses tools as guides. and keep talking. Keep talking.
 
 ---
 
