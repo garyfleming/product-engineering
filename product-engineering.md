@@ -15,7 +15,6 @@ theme: Space, 3
 * Share Power and Decisions Where You Can
 * Have More Real **Conversations**
 
-^ TODO Make sure this is the same as the one at the end
 ^    * Talk more, be honest more, listen more, have them be actual conversations
     * You're now relieved of the burden of listening to the talk
     * If you have to talk notes to take back to your company, that's you sorted. You're welcome.
