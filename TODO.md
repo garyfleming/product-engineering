@@ -79,3 +79,18 @@ real conversations - what are they
 Have real Conversations
 
 ^ Quite the opposite. I'm saying have conversations. Align the mission and values. Create lightweight touchpoints. and keep talking. If any
+
+---
+
+put real conversation slide earlier. Explain that you know if having these conversations was easy you’d be having them. You’ll be providing tools
+
+NEED TO ENSURE WE ARE ACTUALLY PROVIDING TOOLS
+
+--
+
+Product change: add visuals of org chart showing product and engineering side by side. Add bit on who should be in charge: can either be two separate trees or same boss (product, engineering or other) - but latter can being in bias
+
+---
+
+SHould "professional symphathy for each other's roles is important" be a slide.
+Talk about how understanding a little about what you each do is the basis of good work?

@@ -1,6 +1,6 @@
 theme: Space, 3
 
-# Perfect Patterns For Product Partnerships And Engineering Excellence
+# Product x Engineering: A Guide to Organisational Patterns
 
 @garyfleming[**@mastodon.social**]
 
@@ -15,21 +15,33 @@ theme: Space, 3
 * Share Power and Decisions Where You Can
 * Have More Real **Conversations**
 
-^    * Talk more, be honest more, listen more, have them be actual conversations
+^   * Talk more, be honest more, listen more, have them be actual conversations
     * You're now relieved of the burden of listening to the talk
     * If you have to talk notes to take back to your company, that's you sorted. You're welcome.
 
 ---
 
-# Perfect Patterns For Product Partnerships And Engineering Excellence
+# Product x Engineering: A Guide to Organisational Patterns
 
 @garyfleming[**@mastodon.social**]
 
 ^ * My name is...
   * This talk is called...
-    * Yes, I did call it that largely for the alliterative effect.
-    * No, it's not big or clever
-    * Yes, I do regret it and I've already renamed it for future conferences
+    * Yes, that's X not vs.
+
+---
+
+
+# Product x
+# Engineers
+
+@garyfleming[**@mastodon.social**]
+
+![right fit](images/kong.jpg)
+
+^ Y'know, like godzilla and king kong. They're not fighting, even if there's tension. In this metaphor, I'm not saying which is the lizard and which is the ape - but I think we all intuitively know.
+
+^ Which is a great time for a disclaimer...
 
 ---
 
@@ -62,8 +74,12 @@ The examples are anonymised (and not necessarily from my current context).
 If something I say doesn't apply to you, don't apply it.
 
 ^ If anything I say doesn't apply to you, don't apply it.
+I'm about 7 slides in and I still haven't told you what this talk is about so.
 
 ---
+
+[.background-color: #fcffe0]
+[.header: #75a47f] 
 
 # What this is about
 
@@ -75,17 +91,17 @@ If something I say doesn't apply to you, don't apply it.
   
 ---
 
-# Roles and Context
+# Roles: Product and Engineering
+## (and agile)
 
-^   * Definitely on the engineering side...
-  * Was an agile coach for for an extended dark period of my life
-  * I am not now and never have been a product owner
-    * But I have trained/coached POs in  a past life.
+## 🤷🏾‍♂️  🙋🏻‍♀️
 
-^  * Going to use product owner/manager/CPO interchangeably
+
+^ * Going to use product owner/manager/CPO interchangeably
   * Going to use engineering lead/team lead/developer interchangeably.
   * Scrum master/agile coach/agile lead
   * I'll usually be referring to people who are at broadly the same level.
+
 
 ---
 
@@ -124,7 +140,8 @@ If something I say doesn't apply to you, don't apply it.
 
 ^  * Linda
     * Has worked in multiple roles and has now settled into Product management
-    * Opinionated, loud, one of life's complainers, but she's not stupid and she's not necessarily wrong.
+    * Opinionated, loud, says things "how they are" - (people that do this are )
+    *  but she's not stupid and she's not necessarily wrong.
     * Can see the issues upstream and knows they need fixed - knows that tickets are a symptom
     * Can't get traction with Nathan because started with everything that is wrong. Didn't build relationships and trust. Just complained (about stuff that really was broken)
     * Aligned *under* Nathan, so is being loudly dismissive of her manager's approach.
@@ -538,4 +555,14 @@ Dispositional. No one answer. Things below are broadly applicable (or called out
 
 ----
 
+
+---
+
+# Roles and Context
+
+^   * Definitely on the engineering side...
+  * Was an agile coach for for an extended dark period of my life
+  * I am not now and never have been a product owner
+    * But I have trained/coached POs in a past life.
+    * Professional sympathy for each other's roles is important
 
