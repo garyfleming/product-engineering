@@ -105,7 +105,11 @@ I'm about 7 slides in and I still haven't told you what this talk is about so.
 
 ---
 
-# Roles and Context
+# Roles: Product and Engineering
+## (and agile)
+
+* Anti-patterns help and hinder
+* Recognise both 
 
 ^     * If you're product/engineering, look for these anti-patterns and how they both benefit and hinder you. Just because they can have an immediate benefit doesn't make them a good thing - can harm relationship
   * If you're agile, look at how you can illuminate these problems for those invovled
@@ -249,7 +253,7 @@ I'm about 7 slides in and I still haven't told you what this talk is about so.
 * Explicit || Tacit
 
 ^ I'm going to go into this in more detail very soon, but the power dynamics (explicit and tacit) are probably the biggest driver of harmony and disharmony.
-^ Consider the many ways that upsetting these balances causes issues. Org chart is most obvious. Informal Network is easiest to work - as Dave Snowden mentoned in the keynote, informal networks bring trust where formal netwrosk don't.
+^ Consider the many ways that upsetting these balances causes issues. Org chart is most obvious. Informal Network is easiest to work - to paraphrase Dave Snowden, informal networks bring trust where formal netwrosk don't.
 ^ Seniority - grad speaking to a director; will likely listen. Director needs to be careful that options don't sound like orders. 
 ^ Explicit/tacit - when power is used, need to be aware that it can be used explicitly or tacitly.
 
