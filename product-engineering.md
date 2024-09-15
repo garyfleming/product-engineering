@@ -80,6 +80,7 @@ I'm about 7 slides in and I still haven't told you what this talk is about so.
 
 [.background-color: #fcffe0]
 [.header: #75a47f] 
+[.text: #75a47f]
 
 # What this is about
 
@@ -116,6 +117,10 @@ I'm about 7 slides in and I still haven't told you what this talk is about so.
 
 ---
 
+[.background-color: #fcffe0]
+[.header: #75a47f] 
+[.text: #75a47f]
+
 # Examples
 
 ^ Going to go through some examples/ The purpose of the examples is to explain the common anti-patterns and problems, the misalignments, to illustrate the kinds of problems we're going to attempt to solve
@@ -123,10 +128,10 @@ I'm about 7 slides in and I still haven't told you what this talk is about so.
 
 ---
 
-# Example: Nathan and Linda
+# Example: Nathan 👨🏻‍🦰 and Linda 👩🏻‍🦳
 
-* Nathan: engineering lead for large platform that supports other applications
-* Linda: newly appointed Product Manager
+* Nathan 👨🏻‍🦰: engineering lead for large platform that supports other applications
+* Linda 👩🏻‍🦳: newly appointed Product Manager
 
 ^  * Nathan 
     * engineering lead for large platform that supports other applications
@@ -137,10 +142,10 @@ I'm about 7 slides in and I still haven't told you what this talk is about so.
 
 ---
 
-# Example: Nathan and Linda
+# Example: Nathan 👨🏻‍🦰 and Linda 👩🏻‍🦳
 
-* Nathan: engineering lead for large platform that supports other applications
-* Linda: newly appointed Product Manager
+* Nathan 👨🏻‍🦰: engineering lead for large platform that supports other applications
+* Linda 👩🏻‍🦳: newly appointed Product Manager
 
 ^  * Linda
     * Has worked in multiple roles and has now settled into Product management
@@ -152,10 +157,10 @@ I'm about 7 slides in and I still haven't told you what this talk is about so.
   
 ---
 
-# Example: Matt and Ken 
+# Example: Matt 💁🏽‍♂️ and Ken 👨🏼‍🦲
 
-* Matt: Experienced Product manager from another area
-* Ken: Engineering expert in his domain
+* Matt 💁🏽‍♂️: Experienced Product manager from another area
+* Ken 👨🏼‍🦲: Engineering expert in his domain
 
 ^  * Ken
     * Engineering lead for tools for develophers
@@ -166,10 +171,10 @@ I'm about 7 slides in and I still haven't told you what this talk is about so.
 
 ---
 
-# Example: Matt and Ken 
+# Example: Matt 💁🏽‍♂️ and Ken 👨🏼‍🦲
 
-* Matt: Experienced Product manager from another area
-* Ken: Engineering expert in his domain
+* Matt 💁🏽‍♂️: Experienced Product manager from another area
+* Ken 👨🏼‍🦲: Engineering expert in his domain
 
 ^ * Matt
     * Experienced PO moved in from another area (Cloud?) because dev tooling need to start focussing more tools on Cloud
@@ -180,11 +185,11 @@ I'm about 7 slides in and I still haven't told you what this talk is about so.
 
 ---
 
-# Example: Jessica and Steve
+# Example: Jessica 🙋🏻 and Steve 👨🏾‍🦱
 
 
 * Jessica: product manager put in charge of wayward project
-* Steve: new engineering lead
+* Steve 👨🏾‍🦱: new engineering lead
 
 ^   * Jessica
     * Former project manager trying to make a name for herself
@@ -193,10 +198,10 @@ I'm about 7 slides in and I still haven't told you what this talk is about so.
 
 ---
 
-# Example: Jessica and Steve
+# Example: Jessica 🙋🏻 and Steve 👨🏾‍🦱
 
-* Jessica: product manager put in charge of wayward project
-* Steve: new engineering lead
+* Jessica 🙋🏻: product manager put in charge of wayward project
+* Steve 👨🏾‍🦱: new engineering lead
 
 ^ * Steve
     * New engineering lead - old one left
@@ -207,7 +212,9 @@ I'm about 7 slides in and I still haven't told you what this talk is about so.
 
 ---
 
-
+[.background-color: #fcffe0]
+[.header: #75a47f] 
+[.text: #75a47f]
 
 ^ * Do any of those scenarios sound familiar? Do some or all of them resonate with an experience you've had? Let's talk about some of the details
     * I'm going to pull out some of the issues you can see through those examples and pick them apart but...
@@ -274,7 +281,15 @@ I'm about 7 slides in and I still haven't told you what this talk is about so.
 
 ---
 
-# Antipattern: Reporting to each other
+[.background-color: #fcffe0]
+[.header: #75a47f] 
+[.text: #75a47f]
+
+# Antipattern: Hierarchy
+
+## 🙋🏻‍♀️
+## ⬆️
+## 🤷🏾‍♂️
 
 ^ I'm going to get into this one first because it's the biggest, and maybe the most controversial.
 
@@ -286,6 +301,8 @@ I'm about 7 slides in and I still haven't told you what this talk is about so.
 ---
 
 # Possibility: Same Level
+
+## 🙋🏻‍♀️ ↔️ 🤷🏾‍♂️
 
 ^ Have the product people and engineers who need to work together at the same level. Give them every opportunity to work better by minimising the power imbalances you can. Doesn't matter if one is a higher grade etc. Their working relationship should be as equals by default
 
@@ -315,13 +332,32 @@ I'm about 7 slides in and I still haven't told you what this talk is about so.
 
 # Constraints in Teams
 
+## ⚖️
+
 ^ Imbalance in teams: It's also worth noting that having EL and PM at the same level doesn't by itself create balance. Product owners typically have much smaller teams (0-2 directs) than engineering leads (5-7). That is a power dynamic - if a developer in a team is caught in a fight between their boss (EL) or the PM, they might well go with the person writing their end of year.
 It's important to build a culture of respect and figure out communication patterns to work through this. Can be as simple as agreeing how we build our roadmap and communicate that to the team, and how the team communicate back
 
+---
+
+# Who do they report to?
+
+##  . .. ? ...
+##  . ↗️ . ↖️.
+## 🙋🏻‍♀️ . ↔️ .🤷🏾‍♂️
+
+^ So if engineering/product partners shouldn't report to each other, to whom should they report? You might consider having separate product and engineering hierarchies that pair off all the way up, maintaining the need for relationships.
+
+^ They might both report to the same person (product or engineering a level up) - but this might be putting your thumb on the scale for one side if you're note careful.
+
+^ Delivery manager? Maybe but probably not - often leads to worst kind of project management. Directive.
 
 ---
 
-## Antipattern: Focussing on the current.
+[.background-color: #fcffe0]
+[.header: #75a47f] 
+[.text: #75a47f]
+
+# Antipattern: Focussing on the current
 
 * Engineering focussing on current system
 * Product focussing on current solution
@@ -364,6 +400,10 @@ Confusing the tools you've built with the mission is a deadly mistake.
 
 ---
 
+[.background-color: #fcffe0]
+[.header: #75a47f] 
+[.text: #75a47f]
+
 # Antipattern: Different Missions
 
 ^ Alignment will be a recurring theme as we go on (I'll be jumping around a little bit as the antipatterns intersect), but most of the rest of what I'll say only really makes sense if you're on the same mission.
@@ -382,6 +422,10 @@ TODO needs rewritten
 
 
 ---
+
+[.background-color: #fcffe0]
+[.header: #75a47f] 
+[.text: #75a47f]
 
 # Antipattern: Unclear Decision Making/Ownership
 
@@ -431,6 +475,10 @@ It's very common to have more work to do than you could possibly manage, and not
 ^ I've used the phrase real conversations a few times. You know when you're actually listening to someone and hearing them. You know when they're doing the same. You know when they're just waiting their turn. This goes back to building Power With. If you're just waiting to deliver your point, you're likely attempting Power Over
 
 ---
+
+[.background-color: #fcffe0]
+[.header: #75a47f] 
+[.text: #75a47f]
 
 # Antipattern: Tech Debt Management
 
@@ -492,6 +540,10 @@ thinking about now next later and even much later (years). Ensure you’re align
 
 ---
 
+[.background-color: #fcffe0]
+[.header: #75a47f] 
+[.text: #75a47f]
+
 # Meta-antipattern: Bureaucracy
 
 ^ Most of what I've talkd about sounds like it could be misudnerstood as process so let me disavow you of that. I am not saying that as you align your roadmap, metrics, around data, decision making etc that you build a bureaucratic process. Quite the opposite. if anyone ever says "Well, that's not the process", or "you need to submit a change request for review", etc you've lost.
@@ -514,6 +566,7 @@ thinking about now next later and even much later (years). Ensure you’re align
 ^ TODO Make sure this is the same as the one at the start
 
 ---
+
 
 # Thank You
 
