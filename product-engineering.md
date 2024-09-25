@@ -86,7 +86,17 @@ I'm about 7 slides in and I still haven't told you what this talk is about so.
 
 ^  * This talk is about product managers and engineering leads, and their failing relationships
   * This is about when those people try to work together and it goes wrong; or when they don't try to work together at all and it still goes horribly wrong. The horrible disastrous mistakes people make that can be overcome, and how you start doing that.
-  * While the framing of the talk is on those two roles, I think it's also useful to adjacent roles - particularly agile coaches and scrum masters. If you can start to identify the problems I'll mention, you can start to work with the affected parties to fix things.
+
+
+---
+
+[.background-color: #fcffe0]
+[.header: #75a47f] 
+[.text: #75a47f]
+
+# What this is about
+
+^  * While the framing of the talk is on those two roles, I think it's also useful to adjacent roles - particularly agile coaches and scrum masters. If you can start to identify the problems I'll mention, you can start to work with the affected parties to fix things.
   * As we go through, I'm going to give you examples of failures, their causes, the results, and some ideas on how to approach things differently. 
   * But I remind you that you can mostly tune out if you rememember to "Have more real conversations"
   
@@ -149,7 +159,7 @@ I'm about 7 slides in and I still haven't told you what this talk is about so.
 
 ^  * Linda
     * Has worked in multiple roles and has now settled into Product management
-    * Opinionated, loud, says things "how they are" - (people that do this are )
+    * Opinionated, loud, says things "how they are" - (people that do this are usually take the tone of novelty - but usually it's the same thing you've heard but ruder)
     *  but she's not stupid and she's not necessarily wrong.
     * Can see the issues upstream and knows they need fixed - knows that tickets are a symptom
     * Can't get traction with Nathan because started with everything that is wrong. Didn't build relationships and trust. Just complained (about stuff that really was broken)
@@ -304,7 +314,7 @@ I'm about 7 slides in and I still haven't told you what this talk is about so.
 
 ## 🙋🏻‍♀️ ↔️ 🤷🏾‍♂️
 
-^ Have the product people and engineers who need to work together at the same level. Give them every opportunity to work better by minimising the power imbalances you can. Doesn't matter if one is a higher grade etc. Their working relationship should be as equals by default
+^ Have the product people and engineers who need to work together at the same level of org. Give them every opportunity to work better by minimising the power imbalances you can. Doesn't matter if one is a higher grade etc. Their working relationship should be as equals by default
 
 ---
 
@@ -316,14 +326,28 @@ I'm about 7 slides in and I still haven't told you what this talk is about so.
 
 ---
 
-# Constraints
+# Constraints: grades
 
-* Grades
-* Posture
-* Imbalance
+* Communication
+* Timespans of Discretion - Elliot Jaques
 
 ^ Grades: even if they are different grades in the corporate structure, it's unlikely to be by many multiple levels. Issues around grade difference correct quickly through exposure to new ways to talking
-^ TODO brief foray into timespans of discretion as they relate to comms. The way you think and communicate is influenced heavily by the timespans in which you act.
+
+---
+
+## Aside: Timespans of Discretion
+
+* Timespans lengthen with seniority
+* Longer timespans affect thinking
+* These both affect language
+
+^ New devs/POs think day to day. Leads tend to think bigger - what do we need to get done for a bigger goal? And up and up to the C-suite, who are thinking in quarters to years to decades.
+Thinking necessarily changes the language being used, and the means by which we describe our thinking to become action.
+There is an implicit power dynamic between folks at different grades because of the language they use. Work to combat it.
+
+---
+
+# Constraints: posture
 
 ^ Posture: depending on your context, you might want to shift things around a little. If you're building internal products with an engineering focus, it's likely that your engineers will have good opinions here. If you're building external products where gaining market fit is key, maybe product's voice needs to be raised a little.
 ^ TODO visualise this 
@@ -386,11 +410,13 @@ It's important to build a culture of respect and figure out communication patter
 ^ And I mean it. Being dispassionate about software and products is important. 
 Confusing the tools you've built with the mission is a deadly mistake.
 
+
 ---
 
 # Focus on **needs**, not _systems_
 
-^ Everyone, product and engineering, should align to this mantra in almost every situation. Constantly evaluate your user's needs to see if they're changing (or you understand them better), and whether your current direction still fits.
+^ I want everyone here to think hard about the systems they work on and accept that they do not matter. Free yourself from the bias you have to what already exists.
+Everyone, product and engineering, should align to this mantra in almost every situation. Constantly evaluate your user's needs to see if they're changing (or you understand them better), and whether your current direction still fits.
 
 ---
 
