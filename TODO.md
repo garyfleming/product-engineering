@@ -1,5 +1,10 @@
 # Possible TODOs.
 
+
+Self feedback after last time we did this: Back half isn't coherent with the front. Sections are underdeveloped. Stuff like tech debt doesn't feel like an organisational pattern. People really like the stuff on timespans of discretion 
+
+----
+
 * Consider embedding I don't care talk - it's about product thinking
   * 
 * Ambiguity of value - What kind do you mean? Agree up front. Consider using OKRs
